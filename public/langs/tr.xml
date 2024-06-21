@@ -1,0 +1,604 @@
+<?xml version="1.0" standalone="yes"?>
+<txt>
+    <firstday>1</firstday>
+    <enero>Ocak</enero>
+    <febrero>Şubat</febrero>
+    <marzo>Mart</marzo>
+    <abril>Nisan</abril>
+    <mayo>Mayıs</mayo>
+    <junio>Haziran</junio>
+    <julio>Temmuz</julio>
+    <agosto>Ağustos</agosto>
+    <septiembre>Eylül</septiembre>
+    <octubre>Ekim</octubre>
+    <noviembre>Kasım</noviembre>
+    <diciembre>Aralık</diciembre>
+    <lunes>Pazartesi</lunes>
+    <martes>Salı</martes>
+    <miercoles>Çarşamba</miercoles>
+    <jueves>Perşembe</jueves>
+    <viernes>Cuma</viernes>
+    <sabado>Cumartesi</sabado>
+    <domingo>Pazar</domingo>
+    <year>Yıl</year>
+    <mes>Ay</mes>
+    <dia>Gün</dia>
+    <hora>Saat</hora>
+    <minutos>Dakika</minutos>
+    <fecha>Tarih</fecha>
+    <personalizado>Kişiselleştirme</personalizado>
+    <hoy>Bugün</hoy>
+    <ayer>Dün</ayer>
+    <dosdias>Son 2 gün</dosdias>
+    <sietedias>Son 7 gün</sietedias>
+    <quincedias>Son 15 gün</quincedias>
+    <treintadias>Son 30 gün</treintadias>
+    <mesactual>Bu ay</mesactual>
+    <mesanterior>Önceki ay</mesanterior>
+    <a>a</a>
+    <acciones>Eylemler</acciones>
+    <activo>Etkin</activo>
+    <ajustar_zona>Saat dilimi</ajustar_zona>
+    <apunte>Notlar</apunte>
+    <auto>Otomatik</auto>
+    <backup>Backup</backup>
+    <baneado>Kilitli</baneado>
+    <banned>Kullanıcı engellendi. Lütfen yöneticilerle iletişime geçin.</banned>
+    <billing>Fatura</billing>
+    <billing_c_fecha>Müşteri - Tarih</billing_c_fecha>
+    <billing_c_mccmnc>Müşteri - MccMnc</billing_c_mccmnc>
+    <billing_p_fecha>Tedarikçi - Tarih</billing_p_fecha>
+    <billing_p_mccmnc>Tedarikçi - MccMnc</billing_p_mccmnc>
+    <billing_detalle>Detay</billing_detalle>
+    <bindeado>Bağlı</bindeado>
+    <blacklist>Blacklist</blacklist>
+    <black_cliente>Customer Blacklist</black_cliente>
+    <black_pais>Country Blacklist</black_pais>
+    <blanco>[boş]</blanco>
+    <bloqueado>Engelli (Pass)</bloqueado>
+    <cantidad>Miktar</cantidad>
+    <calidad>Kalite Yolları</calidad>
+    <cargando>doluyor</cargando>
+    <caudal>Akış</caudal>
+    <cerrar>Kapat</cerrar>
+    <chinese>Unicode Chinese (DC=8)</chinese>
+    <clearing>Temizleniyor</clearing>
+    <clearing_fecha>Tarih Temizleniyor</clearing_fecha>
+    <clearing_mccmnc>MccMnc Temizleniyor</clearing_mccmnc>
+    <clearing_proveedor_f>Tedarikçi - Tarih Temizleniyor</clearing_proveedor_f>
+    <clearing_proveedor_m>Tedarikçi - MccMnc Temizleniyor</clearing_proveedor_m>
+    <cliente>Müşteri</cliente>
+    <clientes>Müşteri</clientes>
+    <clientesmccmnc>Müşteri - MccMnc</clientesmccmnc>
+    <codificacion>Kodlama</codificacion>
+    <columna>Sütun</columna>
+    <comentarios>Yorumlar</comentarios>
+    <completo>Tam</completo>
+    <conectado>Bağlandı</conectado>
+    <conexion>Bağlantı</conexion>
+    <conexiones>Bağlantılar</conexiones>
+    <configurar>Yapılandırma</configurar>
+    <concepto>Konsept</concepto>
+    <consultar>Danış</consultar>
+    <contactar>Bağlan</contactar>
+    <control>Kontrol</control>
+    <conversion>Dönüştürme</conversion>
+    <conversion_0>Dönüşümsüz</conversion_0>
+    <conversion_1>A Sayısı ( normal )</conversion_1>
+    <conversion_2>A Sayısı ( ',' değiştir  '.' )</conversion_2>
+    <conversion_3>A Sayısı ( Yuvarla )</conversion_3>
+    <conversion_4>Ülke ( Metin => ID )</conversion_4>
+    <copia>E-posta kopyası:</copia>
+    <copiardef>Varsayılanı Kopyala</copiardef>
+    <copiardef>Varsayılanı Kopyala</copiardef>
+    <comercial>Ticari</comercial>
+    <conversion>Dönüştürme</conversion>
+    <coste>Maliyet</coste>
+    <crear>Temizle</crear>
+    <dashboard>Dashboard</dashboard>
+    <de>de</de>
+    <dato>Bilgi</dato>
+    <datos_bancarios>Banka Bilgileri</datos_bancarios>
+    <datos_usuario>Kullanıcı Bilgileri</datos_usuario>
+    <datos_inc>Hata Bilgileri</datos_inc>
+    <defaults>Varsayılanlar</defaults>
+    <defecto>Varsayılanlar</defecto>
+    <del>del</del>
+    <desde>Desde: </desde>
+    <descargar>İndir</descargar>
+    <descripcion>Tanım</descripcion>
+    <destino>Hedef</destino>
+    <detalle>Detay</detalle>
+    <detalle_c>Bağlantı detayı</detalle_c>
+    <divisa>Para</divisa>
+    <edicion>Düzenleme</edicion>
+    <email>E-posta Hedefi:</email>
+    <mail>E-posta</mail>
+    <en>en</en>
+    <entrar>Giriş</entrar>
+    <entregados>Teslim edilenler</entregados>
+    <enviados>Gönderilenler</enviados>
+    <enviar>Gönder</enviar>
+    <error_gsm>Hata: SMS çok uzun (DC=0)</error_gsm>
+    <error_unicode>Hata: Unicode çok uzun (DC=8)</error_unicode>
+    <errores>Hatalar</errores>
+    <estadisticas>İstatistikler</estadisticas>
+    <exitotest>Deneme mesajı başarıyla tamamlandı</exitotest>
+    <exe>Çalıştır</exe>
+    <factura>Fatura</factura>
+    <facturacion>Fatura</facturacion>
+    <fallotest>Deneme mesajı ilerlemesi sırasında hata oluştu</fallotest>
+    <fechaentrega>Teslimat Tarihi</fechaentrega>
+    <fechanotifica>Bildirim Tarihi</fechanotifica>
+    <fechasalida>Çıkış Tarihi</fechasalida>
+    <forzar>Zorla</forzar>
+    <general>Genel</general>
+    <grafica>Grafik</grafica>
+    <gsm>GSM (DC=1)</gsm>
+    <gsm160>SMS 160 krktr (DC=0)</gsm160>
+    <gsm2sms>SMS Doble (DC=0)</gsm2sms>
+    <gsmdef>DEFAULT (DC=0)</gsmdef>
+    <hasta>Bitiş: </hasta>
+    <herramientas>Araçlar</herramientas>
+    <historico>Fiyat geçmişi</historico>
+    <idioma>Dil seç</idioma>
+    <idmaster>ID Master Provider</idmaster>
+    <importfile>Dosya aktar</importfile>
+    <incidencias>Oranlar</incidencias>
+    <ingreso>Gelir</ingreso>
+    <iso>ISO (DC=3)</iso>
+    <iva>KDV(%)</iva>
+    <limite>Limit</limite>
+    <limpiar>Temizle</limpiar>
+    <llamadas>Aramalar</llamadas>
+    <loginchange>Kullanıcı başarıyla düzenlendi. Yeniden giriş yapmak gerekiyor.</loginchange>
+    <loginlast>Son giriş: </loginlast>
+    <logout>Oturumu Kapat</logout>
+    <longnum>Long Numeric 1234567890123 (DC=0)</longnum>
+    <longthai>Unicode Long Thai 4 SMS (DC=8)</longthai>
+    <manual>Kılavuz</manual>
+    <mapa>Harita</mapa>
+    <master>Master</master>
+    <max_c>Maks.Bağlantılar</max_c>
+    <mccmnc>MccMnc</mccmnc>
+    <media>Ortalama</media>
+    <mensaje>Mesaj</mensaje>
+    <mensajestotal>Toplam Mesajlar</mensajestotal>
+    <micuenta>Hesabım</micuenta>
+    <modo>Mod</modo>
+    <movil>Mobil</movil>
+    <msgid>Msgid</msgid>
+    <msgidop>Msgid Tedarikçi</msgidop>
+    <no_valido>Kullanıcı adı veya şifre yanlış</no_valido>
+    <nombre_usuario>Kullanıcı Adı</nombre_usuario>
+    <nombrecliente>Müşteri Adı</nombrecliente>
+    <notificados>Bildirimler</notificados>
+    <numeric>Numeric 123456 (DC=0)</numeric>
+    <numero>Numara</numero>
+    <numeromovil>Telefon Numarası</numeromovil>
+    <operadora>Operatör</operadora>
+    <rutas_r>Restricted Operators</rutas_r>
+    <opcional>İsteğe bağlı</opcional>
+    <pais>Ülke</pais>
+    <paisdestino>Hedef Ülke</paisdestino>
+    <paises>Ülkeler</paises>
+    <permisos>İzinler</permisos>
+    <por>için</por>
+    <por_favor>Lütfen kullanıcı adını ve şifrenizi giriniz.</por_favor>
+    <porcentaje>Yüzde</porcentaje>
+    <precio>Ücret</precio>
+    <pricing>Pricing</pricing>
+    <problema>Bilinmeyen bir sorunla karşılaştık lütfen daha sonra tekrar deneyin</problema>
+    <proforma>Proforma</proforma>
+    <promedio_map>Ülkeye göre rota kalite ortalaması (saniye)</promedio_map>
+    <protocolo>Protokol</protocolo>
+    <proveedor>Tedarikçi</proveedor>
+    <proveedores>Tedarikçiler</proveedores>
+    <puerto>Port</puerto>
+    <razon_social>Iş adı</razon_social>
+    <reenviados>İletilen</reenviados>
+    <recargar>Doldur</recargar>
+    <remitente>Gönderen</remitente>
+    <remitentes>Gönderenler</remitentes>
+    <remitente_cliente>Customer Sender</remitente_cliente>
+    <remitente_pais>Country Sender</remitente_pais>
+    <reportes>Raporlar</reportes>
+    <resumencliente>Müşteri Özeti</resumencliente>
+    <resumenfechas>Tarihe göre gönderiler</resumenfechas>
+    <resumenmccmnc>MCCMNC’ye göre gönderiler</resumenmccmnc>
+    <resumenpaises>Ülkeye göre özet</resumenpaises>
+    <resumenrutas>Tedarikçiye göre özet</resumenrutas>
+    <routing>Routing</routing>
+    <russian>Unicode Russian (DC=8)</russian>
+    <ruta>Rota</ruta>
+    <rutas>Rota</rutas>
+    <ruta_new>Yeni Rota</ruta_new>
+    <ruta_alt>Alternative Route</ruta_alt>
+    <ruta_proveedor>Rota - Tedarikçi</ruta_proveedor>
+    <ruta_real>Gerçek Rota</ruta_real>
+    <ruta_fallo>Fail route</ruta_fallo>
+    <rutas_backup>Backup Routes</rutas_backup>
+    <salir>Çıkış</salir>
+    <selecciona>Sonuçları görmek için tarih aralığı seçin:</selecciona>
+    <seleccionar_c>Alan seçin</seleccionar_c>
+    <seleccionar_d>Veri seçin</seleccionar_d>
+    <seleccionar_f>Dosya seç</seleccionar_f>
+    <seleccionado>Seçildi</seleccionado>
+    <senderid>SenderID</senderid>
+    <servicio>Hizmet</servicio>
+    <servidor>Sunucu</servidor>
+    <servidores>Sunucular</servidores>
+    <shortnum>Short Numeric 1234 (DC=0)</shortnum>
+    <subtotal>Subtotal</subtotal>
+    <status>Durum</status>
+    <tarifa>Tarife</tarifa>
+    <tecnico>Teknik</tecnico>
+    <testing>Testing</testing>
+    <texto>Metin</texto>
+    <thai>Unicode Thai (DC=8)</thai>
+    <tipo>Tür</tipo>
+    <tipobulk>Büyüme Türü</tipobulk>
+    <tipocobro>Ücret Türü</tipocobro>
+    <tipocon>Bağlantı Türü</tipocon>
+    <tipoenvio>Gönderi Türü</tipoenvio>
+    <tipomensaje>Mesaj Türü</tipomensaje>
+    <tiporuta>Rota Türü</tiporuta>
+    <todos>Hepsi</todos>
+    <total>Toplam</total>
+    <total_edicion>Toplam Edisyon</total_edicion>
+    <totales>Toplam</totales>
+    <ultimahora>Son Saat</ultimahora>
+    <ultimos>Son</ultimos>
+    <ultimosmensajes>Son Mesajlar</ultimosmensajes>
+    <usuario>Kullanıcı</usuario>
+    <usuarios>Kullanıcılar</usuarios>
+    <utilidades>Hizmetler</utilidades>
+    <ultima_mod>Son Düzenleme</ultima_mod>
+    <valor_fijo>Tabit Değer</valor_fijo>
+    <value>Değer</value>
+    <vacio>Sorgu işlemi sonuç vermedi</vacio>
+    <version>Versiyon</version>
+    <vietnamite>Unicode Vietnamite (DC=8)</vietnamite>
+    <wappush>WapPush (DC=4)</wappush>
+    <zonah>Zaman Dilimi</zonah>
+    <zonah_min>Zaman D.</zonah_min>
+
+    <facturacion_b>
+        <filename>Fatura</filename>
+        <error>Sorgulama+sırasında+hata+oluştu</error>
+        <no_hay>Belirtilen+tarihler+arasında+hareket+bulunmuyor</no_hay>
+        <aviso>Lütfen+fatura+tarihini+seçin</aviso>
+        <criterios>Müşteri+faturası+hizmette</criterios>
+    </facturacion_b>
+    <afiliados>
+        <filename>Aboneler</filename>
+        <afiliado>Abone</afiliado>
+        <error>Sorgulama+sırasında+hata+oluştu</error>
+        <no_hay>Belirtilen+tarihler+arasında+hareket+bulunmuyor</no_hay>
+        <aviso>Lütfen+abonelerin+fatura+tarihini+seçin</aviso>
+        <criterios>Abone+faturası+hizmette</criterios>
+    </afiliados>
+    <codigolibre>
+        <filename>Serbest+Kodlar</filename>
+        <busqueda>Aranacak+kodu+giriniz</busqueda>
+        <error>Sorgulama+sırasında+hata+oluştu</error>
+        <aviso>Sorgulamak+istediğiniz+kodu+girin</aviso>
+        <estado>Durum</estado>
+        <precio>Ücret</precio>
+    </codigolibre>
+    <buscador>
+        <filename>SMS+Ara</filename>
+        <busqueda>Aranacak+telefonu+giriniz</busqueda>
+        <error>Sorgulama+sırasında+hata+oluştu</error>
+        <aviso>Aramak+istediğiniz+telefonu+giriniz</aviso>
+        <no_hay>Seçilen+numayara+ait+mesaj+bulunmuyor</no_hay>
+    </buscador>
+    <essms>
+        <fecha_ini>Başlangıç+Tarihi</fecha_ini>
+        <fecha_fin>Bitiş+Tarihi</fecha_fin>
+        <fecha_entrada>Giriş+Tarihi</fecha_entrada>
+        <fecha_salida>Çıkış+Tarihi</fecha_salida>
+        <sel_edicion>Bir+Edisyon+seç</sel_edicion>
+        <texto_entrante>Giriş+metni</texto_entrante>
+        <texto_saliente>Çıkış+metni</texto_saliente>
+        <mensajes>Mesajlar</mensajes>
+        <error>Sorgulama+sırasında+hata+oluştu</error>
+        <no_hay>Belirtilen+tarihler+arasında+hareket+bulunmuyor</no_hay>
+        <aviso>Lütfen+giriş+ve+çıkış+tarihini+seçin</aviso>
+    </essms>
+    <concursos>
+        <filename>Çekilişler</filename>
+        <seleccione>Çekilişe+katılacak+mesajları+seçin:</seleccione>
+        <hora_ini>Bailangıç+Saati</hora_ini>
+        <hora_fin>Bitiş+Saati</hora_fin>
+        <serv_sms>SMS+Hizmetleri</serv_sms>
+        <serv_voz>Sesli+Hizmetler</serv_voz>
+        <opciones>Yarışma+seçenekleri</opciones>
+        <gan_unicos>Tek+kazananlar+(mobil)</gan_unicos>
+        <gan_aleat>Rastgele+kazananlar</gan_aleat>
+        <mas_mensa>Daha+fazla+gönderilen+mesajlar</mas_mensa>
+        <cntxt>Metin:</cntxt>
+        <num_win>Kazanan+numaralar:</num_win>
+        <sortear>Çekiliş</sortear>
+        <datetime>Tarih/Saat</datetime>
+    </concursos>
+    <billstatus>
+        <s0>Oluşturuldu</s0>
+        <s1>Kontrol edildi</s1>
+        <s2>Gönderildi</s2>
+        <s3>Ödendi</s3>
+        <s4>İade edildi</s4>
+        <s5>Mutabakat</s5>
+        <s6>Talep</s6>
+    </billstatus>
+    <meses>
+        <m1>Ocak</m1>
+        <m2>Şubat</m2>
+        <m3>Mart</m3>
+        <m4>Nisan</m4>
+        <m5>Mayıs</m5>
+        <m6>Haziran</m6>
+        <m7>Temmuz</m7>
+        <m8>Ağustos</m8>
+        <m9>Eylül</m9>
+        <m10>Ekim</m10>
+        <m11>Kasım</m11>
+        <m12>Aralık</m12>
+    </meses>
+    <id_masterbulk>
+        <t1>NVIA</t1>
+        <t2>ATS</t2>
+        <t3>Quintatech</t3>
+        <t4>Mobiadvanced</t4>
+    </id_masterbulk>
+    <id_tipo>
+        <t0>Directo</t0>
+        <t1>Whole Sales</t1>
+        <t2>SIMs</t2>
+        <t3>SS7</t3>
+        <t4>WAB</t4>
+    </id_tipo>
+    <id_tipopago>
+        <t0>Sent</t0>
+        <t1>Delivered</t1>
+    </id_tipopago>
+    <id_tipocobro>
+        <t0>Prepaid</t0>
+        <t1>Postpaid</t1>
+    </id_tipocobro>
+    <listapaises>
+        <p0>Hepsi</p0>
+        <p-1>Default</p-1>
+        <p1>EEUU</p1>
+        <p7>Abhazya</p7>
+        <p15>Kanada</p15>
+        <p18>Dominik Cumhuriyeti</p18>
+        <p20>Mısır</p20>
+        <p27>Güney Afrika</p27>
+        <p30>Yunanistan</p30>
+        <p31>Hollanda</p31>
+        <p32>Belçika</p32>
+        <p33>Fransa</p33>
+        <p34>İspanya</p34>
+        <p36>Macaristan</p36>
+        <p39>İtalya</p39>
+        <p40>Romanya</p40>
+        <p41>İsviçre</p41>
+        <p43>Avusturya</p43>
+        <p44>Birleşik Krallık</p44>
+        <p45>Danimarka</p45>
+        <p46>İsveç</p46>
+        <p47>Norveç</p47>
+        <p48>Polonya</p48>
+        <p49>Almanya</p49>
+        <p51>Peru</p51>
+        <p52>Meksika</p52>
+        <p53>Küba</p53>
+        <p54>Arjantin</p54>
+        <p55>Brezilya</p55>
+        <p56>Şili</p56>
+        <p57>Kolombiya</p57>
+        <p58>Venezuela</p58>
+        <p60>Malezya</p60>
+        <p61>Avustralya</p61>
+        <p62>Endonezya</p62>
+        <p63>Filipinler</p63>
+        <p64>Yeni Zelanda</p64>
+        <p65>Singapur</p65>
+        <p66>Tayland</p66>
+        <p76>Kazakistan</p76>
+        <p79>Rusya</p79>
+        <p81>Japonya</p81>
+        <p82>Güney Kore</p82>
+        <p84>Vietnam</p84>
+        <p86>Çin</p86>
+        <p90>Türkiye</p90>
+        <p91>Hindistan</p91>
+        <p92>Pakistan</p92>
+        <p93>Afganistan</p93>
+        <p94>Sri Lanka</p94>
+        <p95>Myanmar</p95>
+        <p98>İran</p98>
+        <p211>Güney Sudan</p211>
+        <p212>Fas</p212>
+        <p213>Cezayir</p213>
+        <p216>Tunus</p216>
+        <p218>Libya</p218>
+        <p220>Gambiya</p220>
+        <p221>Senegal</p221>
+        <p222>Moritanya</p222>
+        <p223>Mali</p223>
+        <p224>Gine</p224>
+        <p225>Fildişi Sahili</p225>
+        <p226>Burkina Faso</p226>
+        <p227>Nijer</p227>
+        <p228>Togo</p228>
+        <p229>Benin</p229>
+        <p230>Mauritius</p230>
+        <p231>Liberya</p231>
+        <p232>Sierra Leone</p232>
+        <p233>Gana</p233>
+        <p234>Nijerya</p234>
+        <p235>Çad</p235>
+        <p236>Orta Afrika Cumhuriyeti</p236>
+        <p237>Kamerun</p237>
+        <p238>Yeşil Burun</p238>
+        <p239>São Tomé ve Príncipe</p239>
+        <p240>Ekvator Ginesi</p240>
+        <p241>Gabon</p241>
+        <p242>Kongo Cumhuriyeti</p242>
+        <p243>Demokratik Kongo Cumhuriyeti</p243>
+        <p244>Angora</p244>
+        <p245>Gine Bissau</p245>
+        <p246>Britanya Hint Okyanusu Bölgesi</p246>
+        <p248>Seyşeller</p248>
+        <p249>Sudan</p249>
+        <p250>Ruanda</p250>
+        <p251>Etiyopya</p251>
+        <p252>Somali</p252>
+        <p253>Cibuti</p253>
+        <p254>Kenya</p254>
+        <p255>Tanzanya</p255>
+        <p256>Uganda</p256>
+        <p257>Burundi</p257>
+        <p258>Mozambik</p258>
+        <p260>Zambiya</p260>
+        <p261>Madagaskar</p261>
+        <p262>Fransız Güney ve Antarktika Toprakları</p262>
+        <p263>Zimbabve</p263>
+        <p264>Namibya</p264>
+        <p265>Malawi</p265>
+        <p266>Lesotho</p266>
+        <p267>Botsvana</p267>
+        <p268>Svaziland</p268>
+        <p269>Komorlar</p269>
+        <p291>Eritrea</p291>
+        <p297>Aruba</p297>
+        <p298>Faroe Adaları</p298>
+        <p299>Groelandia</p299>
+        <p340>Virgin Adaları</p340>
+        <p1345>Cayman Adaları</p1345>
+        <p350>Cebelitarık</p350>
+        <p351>Portekiz</p351>
+        <p352>Lüksemburg</p352>
+        <p353>İrlanda</p353>
+        <p354>İzlanda</p354>
+        <p355>Arnavutluk</p355>
+        <p356>Malta</p356>
+        <p357>Kıbrıs</p357>
+        <p358>Finlandiya</p358>
+        <p359>Bulgaristan</p359>
+        <p370>Litvanya</p370>
+        <p371>Letonya</p371>
+        <p372>Estonya</p372>
+        <p373>Moldova</p373>
+        <p374>Ermenistan</p374>
+        <p375>Beyaz Rusya</p375>
+        <p376>Andorra</p376>
+        <p377>Monako</p377>
+        <p378>San Marino</p378>
+        <p379>Vatikan Şehri</p379>
+        <p380>Ukrayna</p380>
+        <p381>Sırbistan</p381>
+        <p382>Karadağ</p382>
+        <p383>Kosova</p383>
+        <p385>Hırvatistan</p385>
+        <p386>Slovenya</p386>
+        <p387>Bosna-Hersek</p387>
+        <p389>Makedonya</p389>
+        <p392>Kuzey Kıbrıs</p392>
+        <p420>Çek Cumhuriyeti</p420>
+        <p421>Slovakya</p421>
+        <p423>Liechtenstein</p423>
+        <p428>Kuzey İrlanda</p428>
+        <p441>Man Adası</p441>
+        <p447>Guernsey</p447>
+        <p1473>Granada</p1473>
+        <p501>Belize</p501>
+        <p502>Guatemala</p502>
+        <p503>El Salvador</p503>
+        <p504>Honduras</p504>
+        <p505>Nicaragua</p505>
+        <p506>Kosta Rika</p506>
+        <p507>Panama</p507>
+        <p509>Haiti</p509>
+        <p522>Meksika 2</p522>
+        <p590>Guadalupe</p590>
+        <p591>Bolivya</p591>
+        <p592>Guyana</p592>
+        <p593>Ekvator</p593>
+        <p594>Fransız Guyanası</p594>
+        <p595>Paraguay</p595>
+        <p596>Martinik</p596>
+        <p597>Surinam</p597>
+        <p598>Uruguay</p598>
+        <p599>Hollanda Antilleri</p599>
+        <p649>Turks ve Caicos Adaları</p649>
+        <p1664>Montserrat</p1664>
+        <p670>Doğu Timor</p670>
+        <p1671>Guam</p1671>
+        <p673>Brunei</p673>
+        <p674>Nauru</p674>
+        <p675>Papua Yeni Gine</p675>
+        <p676>Tonga</p676>
+        <p677>Solomon Adaları</p677>
+        <p678>Vanuatu</p678>
+        <p679>Fiji</p679>
+        <p680>Palaos</p680>
+        <p682>Cook Adaları</p682>
+        <p684>Amerikan Samoası</p684>
+        <p685>Samoa</p685>
+        <p686>Kiribati</p686>
+        <p687>Yeni Kaledonya</p687>
+        <p688>Tuvalu</p688>
+        <p689>Fransız Polinezyası</p689>
+        <p691>Mikronezya</p691>
+        <p692>Marshall Adaları</p692>
+        <p721>San Martin</p721>
+        <p1758>Saint Lucia</p1758>
+        <p1767>Dominica</p1767>
+        <p1784>Saint Vincent ve Grenadinler</p1784>
+        <p1787>Porto Riko</p1787>
+        <p1809>Dominik Cumhuriyeti</p1809>
+        <p850>Kuzey Kore</p850>
+        <p852>Hong Kong</p852>
+        <p853>Macao</p853>
+        <p855>Kamboçya</p855>
+        <p856>Laos</p856>
+        <p868>Trinidad ve Tobago</p868>
+        <p869>Saint Kitts ve Nevis</p869>
+        <p880>Bangladeş</p880>
+        <p886>Tayvan</p886>
+        <p960>Maldivler</p960>
+        <p961>Lübnan</p961>
+        <p962>Ürdün</p962>
+        <p963>Suriye</p963>
+        <p964>Irak</p964>
+        <p965>Kuveyt</p965>
+        <p966>Suudi Arabistan</p966>
+        <p967>Yemen</p967>
+        <p968>Umman</p968>
+        <p970>Filistin</p970>
+        <p971>Birleşik Arap Emirlikleri</p971>
+        <p972>İsrail</p972>
+        <p973>Bahreyn</p973>
+        <p974>Katar</p974>
+        <p975>Butan</p975>
+        <p976>Moğolistan</p976>
+        <p977>Nepal</p977>
+        <p992>Tacikistan</p992>
+        <p993>Türkmenistan</p993>
+        <p994>Azerbeycan</p994>
+        <p995>Gürcistan</p995>
+        <p996>Kırgızistan</p996>
+        <p998>Özbekistan</p998>
+        <p1242>Bahamalar</p1242>
+        <p1246>Barbados</p1246>
+        <p1264>Anguilla</p1264>
+        <p1268>Antigua ve Barbuda</p1268>
+        <p1284>Britanya Virjin Adaları</p1284>
+        <p1441>Bermuda</p1441>
+        <p1534>Jersey</p1534>
+        <p1876>Jamaika</p1876>
+    </listapaises>
+</txt>

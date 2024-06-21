@@ -1,0 +1,588 @@
+<?xml version="1.0" standalone="yes"?>
+<txt>
+    <firstday>1</firstday>
+    <enero>Enero</enero>
+    <febrero>Febrero</febrero>
+    <marzo>Marzo</marzo>
+    <abril>Abril</abril>
+    <mayo>Mayo</mayo>
+    <junio>Junio</junio>
+    <julio>Julio</julio>
+    <agosto>Agosto</agosto>
+    <septiembre>Septiembre</septiembre>
+    <octubre>Octubre</octubre>
+    <noviembre>Noviembre</noviembre>
+    <diciembre>Diciembre</diciembre>
+    <lunes>Lunes</lunes>
+    <martes>Martes</martes>
+    <miercoles>Miércoles</miercoles>
+    <jueves>Juéves</jueves>
+    <viernes>Viernes</viernes>
+    <sabado>Sábado</sabado>
+    <domingo>Domingo</domingo>
+    <year>A%C3%B1o</year>
+    <mes>Mes</mes>
+    <dia>Dia</dia>
+    <hora>Hora</hora>
+    <minutos>Minutos</minutos>
+    <fecha>Fecha</fecha>
+    <personalizado>Personalizado</personalizado>
+    <hoy>Hoy</hoy>
+    <ayer>Ayer</ayer>
+    <dosdias>Últimos dos días</dosdias>
+    <sietedias>Últimos siete días</sietedias>
+    <quincedias>Últimos quince días</quincedias>
+    <treintadias>Últimos treinta días</treintadias>
+    <mesactual>Mes actual</mesactual>
+    <mesanterior>Mes pasado</mesanterior>
+    <a>a</a>
+    <acciones>Acciones</acciones>
+    <activo>Activo</activo>
+    <ajustar_zona>Ajustar ZonaH.</ajustar_zona>
+    <apunte>Apuntes</apunte>
+    <auto>Automatico</auto>
+    <backup>Backup</backup>
+    <baneado>Usuario Baneado</baneado>
+    <banned>Usuario bloqueado. Por favor%2C p%C3%B3ngase en contacto con los administradores</banned>
+    <billing>Facturación</billing>
+    <billing_c_fecha>Cliente Fecha</billing_c_fecha>
+    <billing_c_mccmnc>Cliente MccMnc</billing_c_mccmnc>
+    <billing_p_fecha>Proveedor Fecha</billing_p_fecha>
+    <billing_p_mccmnc>Proveedor MccMnc</billing_p_mccmnc>
+    <bindeado>Vinculado</bindeado>
+    <blanco>[Blanco]</blanco>
+    <bloqueado>Bloqueado (Pass)</bloqueado>
+    <cantidad>Cantidad</cantidad>
+    <calidad>Calidad Rutas</calidad>
+    <cargando>cargando</cargando>
+    <caudal>Caudal</caudal>
+    <cerrar>Cerrar</cerrar>
+    <chinese>Unicode Chinese (DC=8)</chinese>
+    <clearing>Clearing</clearing>
+    <clearing_fecha>Clearing Fecha</clearing_fecha>
+    <clearing_mccmnc>Clearing MccMnc</clearing_mccmnc>
+    <clearing_proveedor_f>Clearing Proveedor-Fecha</clearing_proveedor_f>
+    <clearing_proveedor_m>Clearing Proveedor-MccMnc</clearing_proveedor_m>
+    <cliente>Cliente</cliente>
+    <clientes>Clientes</clientes>
+    <clientesmccmnc>Clientes - MccMnc</clientesmccmnc>
+    <codificacion>Codificación</codificacion>
+    <columna>Columna</columna>
+    <comentarios>Comentarios</comentarios>
+    <completo>Completo</completo>
+    <conectado>Conectado</conectado>
+    <conexion>Conexión</conexion>
+    <conexiones>Conexiones</conexiones>
+    <concepto>Concepto</concepto>
+    <consultar>Consultar</consultar>
+    <contactar>Contactar</contactar>
+    <control>Control</control>
+    <conversion>Conversión</conversion>
+    <conversion_0>Sin conversión</conversion_0>
+    <conversion_1>A Número ( normal )</conversion_1>
+    <conversion_2>A Número ( ',' intercambiar  '.' )</conversion_2>
+    <conversion_3>A Numero ( redondear entero )</conversion_3>
+    <conversion_4>País ( Texto => ID )</conversion_4>
+    <copia>Copia de Correo a:</copia>
+    <copiardef>Copiar Defecto</copiardef>
+    <copiardef>Copiar Defecto</copiardef>
+    <comercial>Comercial</comercial>
+    <conversion>Conversión</conversion>
+    <coste>Coste</coste>
+    <crear>Crear</crear>
+    <dashboard>Dashboard</dashboard>
+    <de>de</de>
+    <dato>Dato</dato>
+    <datos_bancarios>Datos Bancarios</datos_bancarios>
+    <datos_usuario>Datos del usuario</datos_usuario>
+    <datos_inc>Datos de la incidencia</datos_inc>
+    <defaults>Defaults</defaults>
+    <defecto>Defecto</defecto>
+    <del>del</del>
+    <desde>Desde: </desde>
+    <descargar>Descargar</descargar>
+    <descripcion>Descripción</descripcion>
+    <destino>Destino</destino>
+    <detalle>Detalle</detalle>
+    <detalle_c>Detalle de la conexión</detalle_c>
+    <divisa>Moneda</divisa>
+    <edicion>Edicion</edicion>
+    <email>Email Destino:</email>
+    <mail>Correo</mail>
+    <en>en</en>
+    <entrar>Entrar</entrar>
+    <entregados>Entregados</entregados>
+    <enviados>Enviados</enviados>
+    <enviar>Enviar</enviar>
+    <error_gsm>Error: SMS too long (DC=0)</error_gsm>
+    <error_unicode>Error: Unicode too long (DC=8)</error_unicode>
+    <errores>Errores</errores>
+    <estadisticas>Estadisticas</estadisticas>
+    <exitotest>Su mensaje de prueba ha sido procesado correctamente</exitotest>
+    <exe>Ejecutar</exe>
+    <factura>Factura</factura>
+    <facturacion>Facturación</facturacion>
+    <fallotest>Ha sucedido un error procesando su mensaje de prueba</fallotest>
+    <fechaentrega>Fecha de Entrega</fechaentrega>
+    <fechanotifica>Fecha de Notificación</fechanotifica>
+    <fechasalida>Fecha de Salida</fechasalida>
+    <forzar>Forzar</forzar>
+    <grafica>Gráfica</grafica>
+    <gsm>GSM (DC=1)</gsm>
+    <gsm160>SMS 160 chars (DC=0)</gsm160>
+    <gsm2sms>SMS Double (DC=0)</gsm2sms>
+    <gsmdef>DEFAULT (DC=0)</gsmdef>
+    <hasta>Hasta: </hasta>
+    <herramientas>Herramientas</herramientas>
+    <historico>Histórico de Precios</historico>
+    <idioma>Seleccione su idioma</idioma>
+    <idmaster>ID Master Provider</idmaster>
+    <importfile>Importar Fichero</importfile>
+    <incidencias>Incidencias</incidencias>
+    <ingreso>Ingreso</ingreso>
+    <iso>ISO (DC=3)</iso>
+    <iva>IVA(%)</iva>
+    <limite>límite</limite>
+    <limpiar>Limpiar</limpiar>
+    <llamadas>Llamadas</llamadas>
+    <loginchange>Usuario modificado correctamente. Debe volver a logarse.</loginchange>
+    <loginlast>Último login: </loginlast>
+    <logout>Cerrar Sesión</logout>
+    <longnum>Long Numeric 1234567890123 (DC=0)</longnum>
+    <longthai>Unicode Long Thai 4 SMS (DC=8)</longthai>
+    <manual>Manual</manual>
+    <mapa>Mapa</mapa>
+    <master>Master</master>
+    <max_c>Máx.Conexiones</max_c>
+    <mccmnc>MccMnc</mccmnc>
+    <media>Promedio</media>
+    <mensaje>Mensaje</mensaje>
+    <mensajestotal>Mensajes Totales</mensajestotal>
+    <micuenta>Mi Cuenta</micuenta>
+    <modo>Modo</modo>
+    <movil>Móvil</movil>
+    <msgid>Msgid</msgid>
+    <msgidop>Msgid Proveedor</msgidop>
+    <no_valido>Nombre de usuario o contrase%C3%B1a no v%C3%A1lidas</no_valido>
+    <nombre_usuario>Nombre de Usuario</nombre_usuario>
+    <nombrecliente>Nombre Cliente</nombrecliente>
+    <notificados>Notificados</notificados>
+    <numeric>Numeric 123456 (DC=0)</numeric>
+    <numero>Numero</numero>
+    <numeromovil>Número de móvil</numeromovil>
+    <operadora>Operadora</operadora>
+    <opcional>Opcional</opcional>
+    <pais>Pais</pais>
+    <paisdestino>País Destino</paisdestino>
+    <paises>Paises</paises>
+    <permisos>Permisos</permisos>
+    <por>por</por>
+    <por_favor>Por favor introduzca su nombre de usuario y contrase%C3%B1a</por_favor>
+    <porcentaje>Porcentaje</porcentaje>
+    <precio>Precio</precio>
+    <pricing>Pricing</pricing>
+    <problema>En estos momentos tenemos un problema%3B por favor vuelva a intentarlo m%C3%A1s tarde</problema>
+    <proforma>Proforma</proforma>
+    <promedio_map>Promedio de calidad de las rutas por país (segundos)</promedio_map>
+    <protocolo>Protocolo</protocolo>
+    <proveedor>Proveedor</proveedor>
+    <proveedores>Proveedores</proveedores>
+    <puerto>Puerto</puerto>
+    <reenviados>Reenviados</reenviados>
+    <recargar>Recargar</recargar>
+    <remitente>Remitente</remitente>
+    <remitentes>Remitentes</remitentes>
+    <reportes>Reportes</reportes>
+    <resumencliente>Resumen por Clientes</resumencliente>
+    <resumenfechas>Envios por fechas</resumenfechas>
+    <resumenmccmnc>Resumen por MCCMNC</resumenmccmnc>
+    <resumenpaises>Resumen por Paises</resumenpaises>
+    <resumenrutas>Resumen por Proveedores</resumenrutas>
+    <routing>Routing</routing>
+    <russian>Unicode Russian (DC=8)</russian>
+    <ruta>Ruta</ruta>
+    <rutas>Rutas</rutas>
+    <ruta_new>Nueva Ruta</ruta_new>
+    <ruta_proveedor>Ruta - Proveedor</ruta_proveedor>
+    <ruta_real>Ruta real</ruta_real>
+    <ruta_fallo>Ruta de fallo</ruta_fallo>
+    <rutas_backup>Backup Routes</rutas_backup>
+    <salir>Desconectar</salir>
+    <selecciona>Elige un rango de fechas para ver los resultados:</selecciona>
+    <seleccionar_c>Seleccionar campos</seleccionar_c>
+    <seleccionar_d>Seleccionar datos</seleccionar_d>
+    <seleccionar_f>Seleccionar fichero</seleccionar_f>
+    <seleccionado>Seleccionado</seleccionado>
+    <senderid>SenderID</senderid>
+    <servicio>Servicio</servicio>
+    <servidor>Servidor</servidor>
+    <servidores>Servidores</servidores>
+    <shortnum>Short Numeric 1234 (DC=0)</shortnum>
+    <subtotal>Subtotal</subtotal>
+    <status>Estado</status>
+    <tarifa>Tarifa</tarifa>
+    <tecnico>Técnico</tecnico>
+    <testing>Testing</testing>
+    <texto>Texto</texto>
+    <thai>Unicode Thai (DC=8)</thai>
+    <tipo>Tipo</tipo>
+    <tipobulk>Tipo Bulk</tipobulk>
+    <tipocobro>Tipo Cobro</tipocobro>
+    <tipocon>Tipo de Conexión</tipocon>
+    <tipoenvio>Tipo Envío</tipoenvio>
+    <tipomensaje>Tipo de Mensaje</tipomensaje>
+    <tiporuta>Tipo Ruta</tiporuta>
+    <todos>Todos</todos>
+    <total>Total</total>
+    <total_edicion>Total Edicion</total_edicion>
+    <totales>Totales</totales>
+    <ultimahora>Última Hora</ultimahora>
+    <ultimos>Últimos</ultimos>
+    <ultimosmensajes>Últimos Mensajes</ultimosmensajes>
+    <usuario>Usuario</usuario>
+    <usuarios>Usuarios</usuarios>
+    <utilidades>Utilidades</utilidades>
+    <ultima_mod>Última Modificación</ultima_mod>
+    <valor_fijo>Valor fijo</valor_fijo>
+    <value>Valor</value>
+    <vacio>La consulta no ha devuelto ningún resultado</vacio>
+    <version>Versión</version>
+    <vietnamite>Unicode Vietnamite (DC=8)</vietnamite>
+    <wappush>WapPush (DC=4)</wappush>
+    <zonah>Zona Horaria</zonah>
+    <zonah_min>Zona H.</zonah_min>
+
+    <facturacion_b>
+        <filename>Facturacion</filename>
+        <error>Ha+ocurrido+un+error+al+ejecutar+su+consulta</error>
+        <no_hay>No+hay+movimientos+en+el+periodo+solicitado</no_hay>
+        <aviso>Por+favor+seleccione+la+fecha+de+facturaci%C3%B3n</aviso>
+        <criterios>Facturaci%C3%B3n+de+Clientes+en+servicios+</criterios>
+    </facturacion_b>
+    <afiliados>
+        <filename>Afiliados</filename>
+        <afiliado>Afiliado</afiliado>
+        <error>Ha+ocurrido+un+error+al+ejecutar+su+consulta</error>
+        <no_hay>No+hay+movimientos+en+el+periodo+solicitado</no_hay>
+        <aviso>Por+favor+seleccione+la+fecha+de+facturaci%C3%B3n+de+Afiliados</aviso>
+        <criterios>Facturaci%C3%B3n+de+Afiliados+en+servicios+</criterios>
+    </afiliados>
+    <codigolibre>
+        <filename>Codigos+Libres</filename>
+        <busqueda>Introduzca+el+codigo+a+buscar</busqueda>
+        <error>Ha+ocurrido+un+error+al+ejecutar+su+consulta</error>
+        <aviso>Introduzca+el+codigo+que+desee+consultar</aviso>
+        <estado>Estado</estado>
+        <precio>Precio</precio>
+    </codigolibre>
+    <buscador>
+        <filename>Buscar+SMS</filename>
+        <busqueda>Introduzca+el+telefono+a+buscar</busqueda>
+        <error>Ha+ocurrido+un+error+al+ejecutar+su+consulta</error>
+        <aviso>Introduzca+el+telefono+que+desea+buscar</aviso>
+        <no_hay>No+hay+mensajes+para+el+telefono+seleccionado</no_hay>
+    </buscador>
+    <essms>
+        <fecha_ini>Fecha+Inicial</fecha_ini>
+        <fecha_fin>Fecha+Final</fecha_fin>
+        <fecha_entrada>Fecha+de+Entrada</fecha_entrada>
+        <fecha_salida>Fecha+de+Salida</fecha_salida>
+        <sel_edicion>Seleccione+una+Edici%C3%B3n</sel_edicion>
+        <texto_entrante>Texto+entrante</texto_entrante>
+        <texto_saliente>Texto+saliente</texto_saliente>
+        <mensajes>Mensajes</mensajes>
+        <error>Ha+ocurrido+un+error+al+ejecutar+su+consulta</error>
+        <no_hay>No+hay+movimientos+en+el+periodo+solicitado</no_hay>
+        <aviso>Por+favor+seleccione+la+fecha+de+entrada+y+salida</aviso>
+    </essms>
+    <concursos>
+        <filename>Sorteos</filename>
+        <seleccione>Seleccione+los+mensajes+que+participan+en+el+sorteo:</seleccione>
+        <hora_ini>Hora+Inicial</hora_ini>
+        <hora_fin>Hora+Final</hora_fin>
+        <serv_sms>Servicios+SMS</serv_sms>
+        <serv_voz>Servicios+VOZ</serv_voz>
+        <opciones>Opciones+del+concurso</opciones>
+        <gan_unicos>Ganadores+unicos+(movil)</gan_unicos>
+        <gan_aleat>Ganadores+aleatorios</gan_aleat>
+        <mas_mensa>Mas+mensajes+enviados</mas_mensa>
+        <cntxt>Con+texto:</cntxt>
+        <num_win>Numero+de+ganadores:</num_win>
+        <sortear>Sortear</sortear>
+        <datetime>Fecha/Hora</datetime>
+    </concursos>
+    <billstatus>
+        <s0>Creada</s0>
+        <s1>Revisada</s1>
+        <s2>Enviada</s2>
+        <s3>Pagada</s3>
+        <s4>Devuelta</s4>
+        <s5>Conciliación</s5>
+        <s6>Reclamada</s6>
+    </billstatus>
+    <meses>
+        <m1>Enero</m1>
+        <m2>Febrero</m2>
+        <m3>Marzo</m3>
+        <m4>Abril</m4>
+        <m5>Mayo</m5>
+        <m6>Junio</m6>
+        <m7>Julio</m7>
+        <m8>Agosto</m8>
+        <m9>Septiembre</m9>
+        <m10>Octubre</m10>
+        <m11>Noviembre</m11>
+        <m12>Diciembre</m12>
+    </meses>
+    <id_masterbulk>
+        <t1>NVIA</t1>
+        <t2>ATS</t2>
+        <t3>Quintatech</t3>
+        <t4>Mobiadvanced</t4>
+    </id_masterbulk>
+    <id_tipo>
+        <t0>Directo</t0>
+        <t1>Whole Sales</t1>
+        <t2>SIMs</t2>
+        <t3>Todos</t3>
+    </id_tipo>
+    <id_tipopago>
+        <t0>Sent</t0>
+        <t1>Delivered</t1>
+    </id_tipopago>
+    <listapaises>
+        <p0>Todos</p0>
+        <p00>Default</p00>
+        <p1>EEUU</p1>
+        <p7>Abkhazia</p7>
+        <p15>Canada</p15>
+        <p18>Republica Dominicana</p18>
+        <p20>Egipto</p20>
+        <p27>Sudafrica</p27>
+        <p30>Grecia</p30>
+        <p31>Holanda</p31>
+        <p32>Bélgica</p32>
+        <p33>Francia</p33>
+        <p34>España</p34>
+        <p36>Hungría</p36>
+        <p39>Italia</p39>
+        <p40>Rumania</p40>
+        <p41>Suiza</p41>
+        <p43>Austria</p43>
+        <p44>Reino Unido</p44>
+        <p45>Dinamarca</p45>
+        <p46>Suecia</p46>
+        <p47>Noruega</p47>
+        <p48>Polonia</p48>
+        <p49>Alemania</p49>
+        <p51>Peru</p51>
+        <p52>Mexico</p52>
+        <p53>Cuba</p53>
+        <p54>Argentina</p54>
+        <p55>Brasil</p55>
+        <p56>Chile</p56>
+        <p57>Colombia</p57>
+        <p58>Venezuela</p58>
+        <p60>Malasia</p60>
+        <p61>Australia</p61>
+        <p62>Indonesia</p62>
+        <p63>Filipinas</p63>
+        <p64>Nueva Zelanda</p64>
+        <p65>Singapur</p65>
+        <p66>Tailandia</p66>
+        <p76>Kazajistan</p76>
+        <p79>Rusia</p79>
+        <p81>Japon</p81>
+        <p82>Corea del Sur</p82>
+        <p84>Vietnam</p84>
+        <p86>China</p86>
+        <p90>Turquia</p90>
+        <p91>India</p91>
+        <p92>Pakistan</p92>
+        <p93>Afganistan</p93>
+        <p94>Sri Lanka</p94>
+        <p95>Myanmar</p95>
+        <p98>Irán</p98>
+        <p211>Sudan del Sur</p211>
+        <p212>Marruecos</p212>
+        <p213>Algeria</p213>
+        <p216>Túnez</p216>
+        <p218>Libia</p218>
+        <p220>Gambia</p220>
+        <p221>Senegal</p221>
+        <p222>Mauritania</p222>
+        <p223>Malí</p223>
+        <p224>Guinea</p224>
+        <p225>Costa de Marfil</p225>
+        <p226>Burkina Faso</p226>
+        <p227>Níger</p227>
+        <p228>Togo</p228>
+        <p229>Benín</p229>
+        <p230>Mauricio</p230>
+        <p231>Liberia</p231>
+        <p232>Sierra Leona</p232>
+        <p233>Ghana</p233>
+        <p234>Nigeria</p234>
+        <p235>Chad</p235>
+        <p236>República Centroafricana</p236>
+        <p237>Camerún</p237>
+        <p238>Cabo Verde</p238>
+        <p239>Santo Tomé y Principe</p239>
+        <p240>Guinea Ecuatorial</p240>
+        <p241>Gabón</p241>
+        <p242>República del Congo</p242>
+        <p243>República Democrática del Congo</p243>
+        <p244>Angola</p244>
+        <p245>Guinea-Bisáu</p245>
+        <p246>Territorio Británico del Océano Índico</p246>
+        <p248>Seychelles</p248>
+        <p249>Sudan</p249>
+        <p250>Ruanda</p250>
+        <p251>Etiopía</p251>
+        <p252>Somalia</p252>
+        <p253>Yibuti</p253>
+        <p254>Kenia</p254>
+        <p255>Tanzania</p255>
+        <p256>Uganda</p256>
+        <p257>Burundi</p257>
+        <p258>Mozambique</p258>
+        <p260>Zambia</p260>
+        <p261>Madagascar</p261>
+        <p262>Terriotorios Australes y Antarticos Franceses</p262>
+        <p263>Zimbabue</p263>
+        <p264>Namibia</p264>
+        <p265>Malaui</p265>
+        <p266>Lesoto</p266>
+        <p267>Botsuana</p267>
+        <p268>Suazilandia</p268>
+        <p269>Comoras</p269>
+        <p291>Eritrea</p291>
+        <p297>Aruba</p297>
+        <p298>Islas Feroe</p298>
+        <p299>Groelandia</p299>
+        <p340>Islas Vírgenes</p340>
+        <p1345>Islas Caimán</p1345>
+        <p350>Gibraltar</p350>
+        <p351>Portugal</p351>
+        <p352>Luxemburgo</p352>
+        <p353>Irlanda</p353>
+        <p354>Islandia</p354>
+        <p355>Albania</p355>
+        <p356>Malta</p356>
+        <p357>Chipre</p357>
+        <p358>Finlandia</p358>
+        <p359>Bulgaria</p359>
+        <p370>Lituania</p370>
+        <p371>Letonia</p371>
+        <p372>Estonia</p372>
+        <p373>Moldavia</p373>
+        <p374>Armenia</p374>
+        <p375>Bielorusia</p375>
+        <p376>Andorra</p376>
+        <p377>Monaco</p377>
+        <p378>San Marino</p378>
+        <p379>Ciudad del Vatican</p379>
+        <p380>Ucrania</p380>
+        <p381>Serbia</p381>
+        <p382>Montenegro</p382>
+        <p383>Kosovo</p383>
+        <p385>Croacia</p385>
+        <p386>Eslovenia</p386>
+        <p387>Bosnia-Herzegovina</p387>
+        <p389>Macedonia</p389>
+        <p392>Chipre del Norte</p392>
+        <p420>República Checa</p420>
+        <p421>Eslovaquia</p421>
+        <p423>Liechtenstein</p423>
+        <p428>Irlanda del Norte</p428>
+        <p441>Isla de Man</p441>
+        <p447>Guernsey</p447>
+        <p1473>Granada</p1473>
+        <p501>Belize</p501>
+        <p502>Guatemala</p502>
+        <p503>El Salvador</p503>
+        <p504>Honduras</p504>
+        <p505>Nicaragua</p505>
+        <p506>Costa Rica</p506>
+        <p507>Panama</p507>
+        <p509>Haiti</p509>
+        <p522>Mexico 2</p522>
+        <p590>Guadalupe</p590>
+        <p591>Bolivia</p591>
+        <p592>Guayana</p592>
+        <p593>Ecuador</p593>
+        <p594>Guayana Francesa</p594>
+        <p595>Paraguay</p595>
+        <p596>Martinica</p596>
+        <p597>Surinam</p597>
+        <p598>Uruguay</p598>
+        <p599>Antillas Holandesas</p599>
+        <p649>Islas Turcas y Caicos</p649>
+        <p1664>Montserrat</p1664>
+        <p670>Timor Oriental</p670>
+        <p1671>Guam</p1671>
+        <p673>Brunei</p673>
+        <p674>Nauru</p674>
+        <p675>Papua Nueva Guinea</p675>
+        <p676>Tonga</p676>
+        <p677>Islas Salomón</p677>
+        <p678>Vanuatu</p678>
+        <p679>Fiyi</p679>
+        <p680>Palaos</p680>
+        <p682>Islas Cook</p682>
+        <p684>Samoa Americana</p684>
+        <p685>Samoa</p685>
+        <p686>Kiribati</p686>
+        <p687>Nueva Caledonia</p687>
+        <p688>Tuvalu</p688>
+        <p689>Polinesia Francesa</p689>
+        <p691>Micronesia</p691>
+        <p692>Islas Marshall</p692>
+        <p721>San Martín</p721>
+        <p1758>Santa Lucia</p1758>
+        <p1767>Dominica</p1767>
+        <p1784>San Vicente y las Granadinas</p1784>
+        <p1787>Puerto Rico</p1787>
+        <p1809>República Dominicana</p1809>
+        <p850>Corea del Norte</p850>
+        <p852>Hong Kong</p852>
+        <p853>Macao</p853>
+        <p855>Camboya</p855>
+        <p856>Laos</p856>
+        <p868>Trinidad y Tobago</p868>
+        <p869>San Cristobal y Nieves</p869>
+        <p880>Bangladés</p880>
+        <p886>Taiwán</p886>
+        <p960>Maldivas</p960>
+        <p961>Líbano</p961>
+        <p962>Jordania</p962>
+        <p963>Siria</p963>
+        <p964>Irak</p964>
+        <p965>Kuwait</p965>
+        <p966>Arabia Saudita</p966>
+        <p967>Yemen</p967>
+        <p968>Oman</p968>
+        <p970>Palestina</p970>
+        <p971>Emiratos Árabes Unidos</p971>
+        <p972>Israel</p972>
+        <p973>Baréin</p973>
+        <p974>Catar</p974>
+        <p975>Bután</p975>
+        <p976>Mongolia</p976>
+        <p977>Nepal</p977>
+        <p992>Tayikistán</p992>
+        <p993>Turkmenistán</p993>
+        <p994>Azerbaiyán</p994>
+        <p995>Georgia</p995>
+        <p996>Kirguistán</p996>
+        <p998>Uzbekistán</p998>
+        <p1242>Bahamas</p1242>
+        <p1246>Barbados</p1246>
+        <p1264>Anguilla</p1264>
+        <p1268>Antigua y Barbuda</p1268>
+        <p1284>Islas Vírgenes Birtánicas</p1284>
+        <p1441>Bermudas</p1441>
+        <p1534>Jersey</p1534>
+        <p1876>Jamaica</p1876>
+    </listapaises>
+</txt>

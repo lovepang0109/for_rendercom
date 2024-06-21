@@ -1,0 +1,1 @@
+import{ap as a,aq as t}from"./index.84400ea8.js";function i(s,r,e){return a({url:"/ModifyUserPasswordService/UpdateUserPassword",method:"put",params:{oldPassword:s,newPassword:r,userId:e}})}const p=()=>t();export{i as U,p as u};

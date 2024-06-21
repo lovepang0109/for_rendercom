@@ -1,0 +1,604 @@
+<?xml version="1.0" standalone="yes"?>
+<txt>
+    <firstday>1</firstday>
+    <enero>Januar</enero>
+    <febrero>Februar</febrero>
+    <marzo>März</marzo>
+    <abril>April</abril>
+    <mayo>Mai</mayo>
+    <junio>Juni</junio>
+    <julio>Juli</julio>
+    <agosto>August</agosto>
+    <septiembre>September</septiembre>
+    <octubre>Oktober</octubre>
+    <noviembre>November</noviembre>
+    <diciembre>Dezember</diciembre>
+    <lunes>Montag</lunes>
+    <martes>Dienstag</martes>
+    <miercoles>Mittwoch</miercoles>
+    <jueves>Donnerstag</jueves>
+    <viernes>Freitag</viernes>
+    <sabado>Samstag</sabado>
+    <domingo>Sonntag</domingo>
+    <year>Jahr</year>
+    <mes>Monat</mes>
+    <dia>Tag</dia>
+    <hora>Stunde</hora>
+    <minutos>Minuten</minutos>
+    <fecha>Datum</fecha>
+    <personalizado>Angepasst</personalizado>
+    <hoy>Heute</hoy>
+    <ayer>Gestern</ayer>
+    <dosdias>Die letzten beiden Tage</dosdias>
+    <sietedias>Die letzten sieben Tage</sietedias>
+    <quincedias>Die letzten fünfzehn Tage</quincedias>
+    <treintadias>Die letzten fünfzig Tage</treintadias>
+    <mesactual>Diesen Monat</mesactual>
+    <mesanterior>Letzter Monat</mesanterior>
+    <a>a</a>
+    <acciones>Handlungen</acciones>
+    <activo>Aktiv</activo>
+    <ajustar_zona>Zeitzone einstellen</ajustar_zona>
+    <apunte>Notizen</apunte>
+    <auto>Automatisch</auto>
+    <backup>Backup</backup>
+    <baneado>Gebannter</baneado>
+    <banned>Geblockter User. Bitte setzen Sie sich mit dem Admin in verbindung</banned>
+    <billing>Abrechnung</billing>
+    <billing_c_fecha>Kunden Datum</billing_c_fecha>
+    <billing_c_mccmnc>MccMnc Kunde</billing_c_mccmnc>
+    <billing_p_fecha>Lieferanten Datum </billing_p_fecha>
+    <billing_p_mccmnc>MccMnc Lieferant</billing_p_mccmnc>
+    <billing_detalle>Detail</billing_detalle>
+    <bindeado>Verlinkt</bindeado>
+    <blacklist>Blacklist</blacklist>
+    <black_cliente>Customer Blacklist</black_cliente>
+    <black_pais>Country Blacklist</black_pais>
+    <blanco>[Leer]</blanco>
+    <bloqueado>User Blockiert (Pass)</bloqueado>
+    <cantidad>Menge</cantidad>
+    <calidad>Qualitäts Route</calidad>
+    <cargando>Am Laden</cargando>
+    <caudal>Fluss</caudal>
+    <cerrar>Geschlossen</cerrar>
+    <chinese>Unicode Chinesisch (DC=8)</chinese>
+    <clearing>Clearing</clearing>
+    <clearing_fecha>Clearing Datum </clearing_fecha>
+    <clearing_mccmnc>MccMnc Clearing</clearing_mccmnc>
+    <clearing_proveedor_f>Provider-Datum Clearing</clearing_proveedor_f>
+    <clearing_proveedor_m>MccMnc-Provider Clearing</clearing_proveedor_m>
+    <cliente>Kunde</cliente>
+    <clientes>Kunden</clientes>
+    <clientesmccmnc>MccMnc-Kunden</clientesmccmnc>
+    <codificacion>Kodierung</codificacion>
+    <columna>Spalte</columna>
+    <comentarios>Kommentare</comentarios>
+    <completo>Vollständig</completo>
+    <conectado>Angemeldet</conectado>
+    <conexion>Verbindung</conexion>
+    <conexiones>Verbindungen</conexiones>
+    <configurar>Konfiguration</configurar>
+    <concepto>Konzept</concepto>
+    <consultar>Suche</consultar>
+    <contactar>Kontakt</contactar>
+    <control>Kontrolle</control>
+    <conversion>Umwandlung</conversion>
+    <conversion_0>Ohne Umwandlung</conversion_0>
+    <conversion_1>Zur Nummer (normal)</conversion_1>
+    <conversion_2>Zur Nummer (',' Wechsel '.')</conversion_2>
+    <conversion_3>Zur Nummer (Komplett Aufrunden)</conversion_3>
+    <conversion_4>Land (Text => ID)</conversion_4>
+    <copia>CC:</copia>
+    <copiardef>Standard Kopieren</copiardef>
+    <copiardef>Standard Kopieren</copiardef>
+    <comercial>Außendienstmitarbeiter</comercial>
+    <conversion>Außendienstmitarbeiter</conversion>
+    <coste>Kosten</coste>
+    <crear>Erstellen</crear>
+    <dashboard>Dashboard</dashboard>
+    <de>Von</de>
+    <dato>Datei</dato>
+    <datos_bancarios>Bankdaten</datos_bancarios>
+    <datos_usuario>Benutzerdaten</datos_usuario>
+    <datos_inc>Inzidenzdaten</datos_inc>
+    <defaults>Standardeinstellung</defaults>
+    <defecto>Standardeinstellungen</defecto>
+    <del>Von</del>
+    <desde>Von:</desde>
+    <descargar>Download</descargar>
+    <descripcion>Beschreibung</descripcion>
+    <destino>Land</destino>
+    <detalle>Detail</detalle>
+    <detalle_c>Anmeldungsdetail</detalle_c>
+    <divisa>Währrung</divisa>
+    <edicion>Edition</edicion>
+    <email>Email</email>
+    <mail>Email</mail>
+    <en>An</en>
+    <entrar>Log In</entrar>
+    <entregados>Versendet</entregados>
+    <enviados>Eingereicht</enviados>
+    <enviar>Senden</enviar>
+    <error_gsm>Error: SMS too long (DC=0)</error_gsm>
+    <error_unicode>Error: Unicode too long (DC=8)</error_unicode>
+    <errores>Fehler</errores>
+    <estadisticas>Statistiken</estadisticas>
+    <exitotest>Ihre Testnachricht wurde korrekt verarbeitet</exitotest>
+    <exe>Ausführen</exe>
+    <factura>Rechnung</factura>
+    <facturacion>Rechnungen</facturacion>
+    <fallotest>Bei der Verarbeitung Ihrer Testnachricht ist ein Fehler aufgetreten</fallotest>
+    <fechaentrega>Lieferdatum</fechaentrega>
+    <fechanotifica>Benachrichtigungsdatum</fechanotifica>
+    <fechasalida>Ausgangsdatum</fechasalida>
+    <forzar>Erzwingen</forzar>
+    <general>Allgemein</general>
+    <grafica>Grafik </grafica>
+    <gsm>GSM (DC=1)</gsm>
+    <gsm160>SMS 160 chars (DC=0)</gsm160>
+    <gsm2sms>SMS Double (DC=0)</gsm2sms>
+    <gsmdef>DEFAULT (DC=0)</gsmdef>
+    <hasta>Bis:</hasta>
+    <herramientas>Tools</herramientas>
+    <historico>Preis Verlauf</historico>
+    <idioma>Wählen Sie Ihre Sprache aus</idioma>
+    <idmaster>ID Master Provider</idmaster>
+    <importfile>Archiv Importieren</importfile>
+    <incidencias>Inzidenzen</incidencias>
+    <ingreso>Einzahlung</ingreso>
+    <iso>ISO (DC=3)</iso>
+    <iva>MWST(%)</iva>
+    <limite>Limit</limite>
+    <limpiar>Säubern</limpiar>
+    <llamadas>Anrufe</llamadas>
+    <loginchange>Benutzer wurde korrekt geändert. Bitte logge dich erneut ein</loginchange>
+    <loginlast>Letzter LogIn: </loginlast>
+    <logout>Ausloggen</logout>
+    <longnum>Long Numeric 1234567890123 (DC=0)</longnum>
+    <longthai>Unicode Long Thai 4 SMS (DC=8)</longthai>
+    <manual>Manual</manual>
+    <mapa>Map</mapa>
+    <master>Master</master>
+    <max_c>Max.Connections</max_c>
+    <mccmnc>MccMnc</mccmnc>
+    <media>Durchschnitt</media>
+    <mensaje>Nachrichten</mensaje>
+    <mensajestotal>Totalanzahl der Nachrichten</mensajestotal>
+    <micuenta>Mein Account</micuenta>
+    <modo>Modus</modo>
+    <movil>Mobil</movil>
+    <msgid>Msgid</msgid>
+    <msgidop>Misgid Provider</msgidop>
+    <no_valido>Benutzername oder Passwort ist falsch</no_valido>
+    <nombre_usuario>Username</nombre_usuario>
+    <nombrecliente>Kunden Name</nombrecliente>
+    <notificados>Benachrichtigt </notificados>
+    <numeric>Numeric 123456 (DC=0)</numeric>
+    <numero>Nummer</numero>
+    <numeromovil>Handynummer</numeromovil>
+    <operadora>Anbieter</operadora>
+    <rutas_r>Restricted Operators</rutas_r>
+    <opcional>Optional</opcional>
+    <pais>Land</pais>
+    <paisdestino>Zielland</paisdestino>
+    <paises>Länder</paises>
+    <permisos>Erlaubnisse</permisos>
+    <por>Pro </por>
+    <por_favor>Bitte geben Sie Ihren Username und Password ein</por_favor>
+    <porcentaje>Ratio</porcentaje>
+    <precio>Preis</precio>
+    <pricing>Pricing</pricing>
+    <problema>In diesem Moment haben wir technische Probleme, bitte versuchen Sie es später erneut</problema>
+    <proforma>Proforma</proforma>
+    <promedio_map>Durchschnittliche Qualität der Routen pro Land (Sekunden)</promedio_map>
+    <protocolo>Protokoll</protocolo>
+    <proveedor>Anbieter</proveedor>
+    <proveedores>Anbieter</proveedores>
+    <puerto>Port</puerto>
+    <razon_social>Firmenname</razon_social>
+    <reenviados>Erneut verschickt</reenviados>
+    <recargar>Nachladen</recargar>
+    <remitente>Sender</remitente>
+    <remitentes>Sender</remitentes>
+    <remitente_cliente>Customer Sender</remitente_cliente>
+    <remitente_pais>Country Sender</remitente_pais>
+    <reportes>Berichte</reportes>
+    <resumencliente>Kundenzusammenfassung</resumencliente>
+    <resumenfechas>Versand nach Daten</resumenfechas>
+    <resumenmccmnc>MccMnc Zusammenfassung</resumenmccmnc>
+    <resumenpaises>Länderzusammenfassung</resumenpaises>
+    <resumenrutas>Anbieter Zusammenfassung</resumenrutas>
+    <routing>Routing</routing>
+    <russian>Unicode Russian (DC=8)</russian>
+    <ruta>Route</ruta>
+    <rutas>Routes</rutas>
+    <ruta_new>Neue Route</ruta_new>
+    <ruta_alt>Alternative Route</ruta_alt>
+    <ruta_proveedor>Route - Anbieter</ruta_proveedor>
+    <ruta_real>Reale Router</ruta_real>
+    <ruta_fallo>Fail Router</ruta_fallo>
+    <rutas_backup>Backup Routes</rutas_backup>
+    <salir>Ausloggen</salir>
+    <selecciona>Wählen Sie einen Datumsbereich, um die Ergebnisse anzuzeigen:</selecciona>
+    <seleccionar_c>Felder auswählen</seleccionar_c>
+    <seleccionar_d>Dateien Auswählen</seleccionar_d>
+    <seleccionar_f>Archive Auswählen</seleccionar_f>
+    <seleccionado>Ausgewählt</seleccionado>
+    <senderid>SenderID</senderid>
+    <servicio>Service</servicio>
+    <servidor>Server</servidor>
+    <servidores>Servers</servidores>
+    <shortnum>Short Numeric 1234 (DC=0)</shortnum>
+    <subtotal>Subtotal</subtotal>
+    <status>Status</status>
+    <tarifa>Tarif</tarifa>
+    <tecnico>Techniker</tecnico>
+    <testing>Testen</testing>
+    <texto>Text</texto>
+    <thai>Unicode Thai (DC=8)</thai>
+    <tipo>Art</tipo>
+    <tipobulk>Massenart</tipobulk>
+    <tipocobro>Art der Gebühr</tipocobro>
+    <tipocon>Verbindungstyp</tipocon>
+    <tipoenvio>Sende-Modus</tipoenvio>
+    <tipomensaje>Art der Nachricht</tipomensaje>
+    <tiporuta>Art der Route</tiporuta>
+    <todos>Alle</todos>
+    <total>Total</total>
+    <total_edicion>Total Edition</total_edicion>
+    <totales>Total</totales>
+    <ultimahora>Letzte Stunde</ultimahora>
+    <ultimos>Letzte</ultimos>
+    <ultimosmensajes>Letzte Nachricht</ultimosmensajes>
+    <usuario>Benutzer</usuario>
+    <usuarios>Benutzer</usuarios>
+    <utilidades>Dienstprogramme</utilidades>
+    <ultima_mod>Letzte Veränderrung</ultima_mod>
+    <valor_fijo>Festwert</valor_fijo>
+    <value>Wert</value>
+    <vacio>Die Abfrage hat keine Ergebnisse zurückgegeben</vacio>
+    <version>Version</version>
+    <vietnamite>Unicode Vietnamite (DC=8)</vietnamite>
+    <wappush>WapPush (DC=4)</wappush>
+    <zonah>Zeit Zone</zonah>
+    <zonah_min>Zeit Z.</zonah_min>
+
+    <facturacion_b>
+        <filename>Abrechnung</filename>
+        <error>Ein+Fehler+ist+aufgetaucht+be+der+Ausführung</error>
+        <no_hay>Dort+sind+keine+Bewegungen+für+die+ausgewählte+Periode</no_hay>
+        <aviso>Wählen+das+Datum+der+Rechnungsstellung,+bitte</aviso>
+        <criterios>Kunden+Abrechnung+im+Gange</criterios>
+    </facturacion_b>
+    <afiliados>
+        <filename>Mitgliedsorganisationen</filename>
+        <afiliado>Mitgliedsorganisationen</afiliado>
+        <error>Ein+Fehler+ist+aufgetreten+während+Ihrer+Abfrage</error>
+        <no_hay>Es+gibt+keine+Bewegen+in+der+angeforderten+Periode</no_hay>
+        <aviso>Wählen+Sie+die+Daten+der+Rechnungsstelle+der+Mitgliedsorganisationen</aviso>
+        <criterios>Mitgliedsorganisationen+Abrechnung+in+Dienste</criterios>
+    </afiliados>
+    <codigolibre>
+        <filename>Gratis+codes</filename>
+        <busqueda>Fügen+Sie+den+Code+ein,+um+nach+zu+suchen</busqueda>
+        <error>Ein+Fehler+ist+aufgetaucht+währrend+Ihrer+Anfrage</error>
+        <aviso>Fügen+Sie+Ihre*Telefonnummer+ein</aviso>
+        <estado>Status</estado>
+        <precio>Preis</precio>
+    </codigolibre>
+    <buscador>
+        <filename>SMS Suchen</filename>
+        <busqueda>Geben+Sie+Ihr+Telefon+ein+um+zu+suchen</busqueda>
+        <error>Ein+Fehler+ist+Unterlaufen+währrend+ihrer+Suche</error>
+        <aviso>Geben+Sie+Ihre+gewünschte+Telefonnr.+ein+um+zu+suchen</aviso>
+        <no_hay>Keine+Nachrichten+verfügbar+für+den+ausgewehlten+Zeitraum</no_hay>
+    </buscador>
+    <essms>
+        <fecha_ini>Anfangs+Datum</fecha_ini>
+        <fecha_fin>End+Datum</fecha_fin>
+        <fecha_entrada>Eingehendes+Datum</fecha_entrada>
+        <fecha_salida>Ausgehendes+Datum</fecha_salida>
+        <sel_edicion>Wähle+eine+Edition+aus</sel_edicion>
+        <texto_entrante>Eingehender+Text</texto_entrante>
+        <texto_saliente>Ausgehender+Text</texto_saliente>
+        <mensajes>Nachrichten</mensajes>
+        <error>Ein+Fehler+ist+aufgetaucht+während+Ihrer+Suche </error>
+        <no_hay>Keine+Bewegungen+in+diesem+Zeitraum+aufgefunden</no_hay>
+        <aviso>Bitte+wählen+Sie+die+eingehenden+und+ausgehenden+Daten+aus</aviso>
+    </essms>
+    <concursos>
+        <filename>Verlosung</filename>
+        <seleccione>Wählen+Sie+die+Nachricht+aus</seleccione>
+        <hora_ini>Anfangs+Zeit</hora_ini>
+        <hora_fin>End+Zeit</hora_fin>
+        <serv_sms>SMS+Service</serv_sms>
+        <serv_voz>VOZ+Service</serv_voz>
+        <opciones>Optionen</opciones>
+        <gan_unicos>Einzigartige+Gewinner+(Handy)</gan_unicos>
+        <gan_aleat>Random+Gewinner</gan_aleat>
+        <mas_mensa>Mehr+Nachrichten+gesendet</mas_mensa>
+        <cntxt>Mit+Text</cntxt>
+        <num_win>Gewinner+Anzahl </num_win>
+        <sortear>Verlosen</sortear>
+        <datetime>Datum/Uhrzeit</datetime>
+    </concursos>
+    <billstatus>
+        <s0>Kreirt </s0>
+        <s1>Überarbeitet</s1>
+        <s2>Gesendet</s2>
+        <s3>Bezahlt</s3>
+        <s4>Zurückgegeben </s4>
+        <s5>Vermittlung</s5>
+        <s6>Beansprucht</s6>
+    </billstatus>
+    <meses>
+        <m1>Januar</m1>
+        <m2>Februar</m2>
+        <m3>März</m3>
+        <m4>April</m4>
+        <m5>Mai</m5>
+        <m6>Juni</m6>
+        <m7>Juli</m7>
+        <m8>August</m8>
+        <m9>September</m9>
+        <m10>Oktober</m10>
+        <m11>November</m11>
+        <m12>Dezember</m12>
+    </meses>
+    <id_masterbulk>
+        <t1>NVIA</t1>
+        <t2>ATS</t2>
+        <t3>Quintatech</t3>
+        <t4>Mobiadvanced</t4>
+    </id_masterbulk>
+    <id_tipo>
+        <t0>Live</t0>
+        <t1>Whole Sales</t1>
+        <t2>SIMs</t2>
+        <t3>SS7</t3>
+        <t4>WAB</t4>
+    </id_tipo>
+    <id_tipopago>
+        <t0>Versendet</t0>
+        <t1>Geliefert</t1>
+    </id_tipopago>
+    <id_tipocobro>
+        <t0>Prepaid</t0>
+        <t1>Postpaid</t1>
+    </id_tipocobro>
+    <listapaises>
+        <p0>International</p0>
+        <p-1>Standard</p-1>
+        <p1>USA</p1>
+        <p7>Russland</p7>
+        <p15>Kanada</p15>
+        <p18>Dominikanische Republik</p18>
+        <p20>Ägypten</p20>
+        <p27>Süd Afrika</p27>
+        <p30>Griechenland</p30>
+        <p31>Niederlande</p31>
+        <p32>Belgien </p32>
+        <p33>Frankreich</p33>
+        <p34>Spanien</p34>
+        <p36>Hungarn</p36>
+        <p39>Italien</p39>
+        <p40>Rumänien</p40>
+        <p41>Schweiz</p41>
+        <p43>Österreich</p43>
+        <p44>Großbritannien</p44>
+        <p45>Dänemark</p45>
+        <p46>Schweden</p46>
+        <p47>Norwegen</p47>
+        <p48>Polen</p48>
+        <p49>Deutschland </p49>
+        <p51>Peru</p51>
+        <p52>Mexiko</p52>
+        <p53>Kuba</p53>
+        <p54>Argentinien</p54>
+        <p55>Brasilien</p55>
+        <p56>Chile</p56>
+        <p57>Kolumbien</p57>
+        <p58>Venezuela</p58>
+        <p60>Malasien</p60>
+        <p61>Australien</p61>
+        <p62>Indonesien</p62>
+        <p63>Philippinen</p63>
+        <p64>Neu Seeland</p64>
+        <p65>Singapur</p65>
+        <p66>Thailand</p66>
+        <p76>Kasachstan </p76>
+        <p79>Russland </p79>
+        <p81>Japan</p81>
+        <p82>Süd Korea</p82>
+        <p84>Vientman</p84>
+        <p86>China</p86>
+        <p90>Türkei</p90>
+        <p91>Indien</p91>
+        <p92>Pakistan</p92>
+        <p93>Afghanistan</p93>
+        <p94>Sri Lanka</p94>
+        <p95>Myanmar</p95>
+        <p98>Iran</p98>
+        <p211>Süd Sudan</p211>
+        <p212>Marrokko</p212>
+        <p213>Algerien</p213>
+        <p216>Tunesien</p216>
+        <p218>Lybien</p218>
+        <p220>Gambia</p220>
+        <p221>Senegal</p221>
+        <p222>Mauritanien</p222>
+        <p223>Mali</p223>
+        <p224>Guinea</p224>
+        <p225>Elfenbeinküste</p225>
+        <p226>Burkina Faso</p226>
+        <p227>Niger</p227>
+        <p228>Togo</p228>
+        <p229>Benin</p229>
+        <p230>Mauritius</p230>
+        <p231>Liberien</p231>
+        <p232>Sierra Leone</p232>
+        <p233>Ghana</p233>
+        <p234>Nigerien</p234>
+        <p235>Tschad</p235>
+        <p236>Zentralafrikanische Republik</p236>
+        <p237>Kamerun</p237>
+        <p238>Kap Verde</p238>
+        <p239>São Tomé und Príncipe</p239>
+        <p240>Äquatorialguinea</p240>
+        <p241>Gabon</p241>
+        <p242>Republik des Kongo</p242>
+        <p243>Demokratische Republik des Kongo</p243>
+        <p244>Angola</p244>
+        <p245>Guinea-Bissau</p245>
+        <p246>Britisches Territorium des Indischen Ozeans</p246>
+        <p248>Seychellen</p248>
+        <p249>Sudan</p249>
+        <p250>Ruanda</p250>
+        <p251>Äthiopien</p251>
+        <p252>Somalien</p252>
+        <p253>Dschibuti</p253>
+        <p254>Kenya</p254>
+        <p255>Tansania</p255>
+        <p256>Uganda</p256>
+        <p257>Burundi</p257>
+        <p258>Mosambik</p258>
+        <p260>Sambia</p260>
+        <p261>Madagaskar</p261>
+        <p262>Französische Süd- und Antarktisgebiete</p262>
+        <p263>Zimbabwe</p263>
+        <p264>Namibia</p264>
+        <p265>Maliwi</p265>
+        <p266>Lesotho</p266>
+        <p267>Botswana</p267>
+        <p268>Swasiland</p268>
+        <p269>Komoren</p269>
+        <p291>Eritrea</p291>
+        <p297>Aruba</p297>
+        <p298>Färöer Inseln</p298>
+        <p299>Grönland</p299>
+        <p340>Amerikanische Jungferninseln</p340>
+        <p1345>Cayman Inseln</p1345>
+        <p350>Gibraltar</p350>
+        <p351>Portugal</p351>
+        <p352>Luxemburg</p352>
+        <p353>Irland</p353>
+        <p354>Island</p354>
+        <p355>Albanien</p355>
+        <p356>Malta</p356>
+        <p357>Zypern</p357>
+        <p358>Finnland</p358>
+        <p359>Bulgarien</p359>
+        <p370>Litauen</p370>
+        <p371>Lettland</p371>
+        <p372>Estland</p372>
+        <p373>Moldau</p373>
+        <p374>Armenien</p374>
+        <p375>Weißrussland</p375>
+        <p376>Andorra</p376>
+        <p377>Monaco</p377>
+        <p378>San Marino</p378>
+        <p379>Vatikanstadt</p379>
+        <p380>Ukraine</p380>
+        <p381>Serbien</p381>
+        <p382>Montenegro</p382>
+        <p383>Kosovo</p383>
+        <p385>Kroatien</p385>
+        <p386>Slovenien</p386>
+        <p387>Bosnien-Herzegowina</p387>
+        <p389>Mazedonien</p389>
+        <p392>Nord-Zypern</p392>
+        <p420>Tschechien</p420>
+        <p421>Slowakei</p421>
+        <p423>Liechtenstein</p423>
+        <p428>Nord Irland</p428>
+        <p441>Isle of Man</p441>
+        <p447>Guernsey</p447>
+        <p1473>Grenada</p1473>
+        <p501>Belize</p501>
+        <p502>Guatemala</p502>
+        <p503>El Salvador</p503>
+        <p504>Honduras</p504>
+        <p505>Nicaragua</p505>
+        <p506>Costa Rica</p506>
+        <p507>Panama</p507>
+        <p509>Haiti</p509>
+        <p522>Mexico 2</p522>
+        <p590>Guadalupe</p590>
+        <p591>Bolivien</p591>
+        <p592>Guyana</p592>
+        <p593>Äquator</p593>
+        <p594>Französische Guyana</p594>
+        <p595>Paraguay</p595>
+        <p596>Martinique</p596>
+        <p597>Suriname</p597>
+        <p598>Uruguay</p598>
+        <p599>Niederländische Antillen</p599>
+        <p649>Turks- und Caicosinseln</p649>
+        <p1664>Montserrat</p1664>
+        <p670>Osttimor</p670>
+        <p1671>Guam</p1671>
+        <p673>Brunei</p673>
+        <p674>Nauru</p674>
+        <p675>Papua Neu Guinea</p675>
+        <p676>Tonga </p676>
+        <p677>Salomon-Inseln</p677>
+        <p678>Vanuatu</p678>
+        <p679>Fidschi</p679>
+        <p680>Palau</p680>
+        <p682>Cookinseln</p682>
+        <p684>Amerikanischen Samoa-Inseln</p684>
+        <p685>Samoa</p685>
+        <p686>Kiribati</p686>
+        <p687>Neu-Kaledonien</p687>
+        <p688>Tuvalu</p688>
+        <p689>Französisch Polynesien</p689>
+        <p691>Mikronesien</p691>
+        <p692>Marshallinseln</p692>
+        <p721>Sint Maarten</p721>
+        <p1758>Saint Lucia</p1758>
+        <p1767>Dominica</p1767>
+        <p1784>St. Vincent und die Grenadinen</p1784>
+        <p1787>Puerto Rico</p1787>
+        <p1809>Dominikanische Republik</p1809>
+        <p850>Nord Korea</p850>
+        <p852>Hong Kong</p852>
+        <p853>Makau</p853>
+        <p855>Kambodscha</p855>
+        <p856>Laos</p856>
+        <p868>Trinidad und Tobago</p868>
+        <p869>St. Kitts und Nevis</p869>
+        <p880>Bangladesh</p880>
+        <p886>Taiwan</p886>
+        <p960>Malediven</p960>
+        <p961>Libanon</p961>
+        <p962>Jordanien</p962>
+        <p963>Syrien</p963>
+        <p964>Irak</p964>
+        <p965>Kuwait</p965>
+        <p966>Saudi Aarabien</p966>
+        <p967>Yemen</p967>
+        <p968>Oman</p968>
+        <p970>Palestina</p970>
+        <p971>Vereinigte Arabische Emirate</p971>
+        <p972>Israel </p972>
+        <p973>Bahrain</p973>
+        <p974>Katar</p974>
+        <p975>Buthan</p975>
+        <p976>Mongolien</p976>
+        <p977>Nepal</p977>
+        <p992>Tajikistan</p992>
+        <p993>Turkmenistan</p993>
+        <p994>Azerbaijan</p994>
+        <p995>Georgia</p995>
+        <p996>Kyrgyzstan</p996>
+        <p998>Uzbekistan</p998>
+        <p1242>Bahamas</p1242>
+        <p1246>Barbados</p1246>
+        <p1264>Anguilla</p1264>
+        <p1268>Antigua und Barbuda</p1268>
+        <p1284>Britische Jungferninseln</p1284>
+        <p1441>Bermuda</p1441>
+        <p1534>Jersey</p1534>
+        <p1876>Jamaika</p1876>
+    </listapaises>
+</txt>

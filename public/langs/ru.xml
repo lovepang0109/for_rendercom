@@ -1,0 +1,604 @@
+<?xml version="1.0" standalone="yes"?>
+<txt>
+    <firstday>0</firstday>
+    <enero>Январь</enero>
+    <febrero>Февраль</febrero>
+    <marzo>Март</marzo>
+    <abril>Апрель</abril>
+    <mayo>Май</mayo>
+    <junio>Июнь</junio>
+    <julio>Июль</julio>
+    <agosto>Август</agosto>
+    <septiembre>Сентябрь</septiembre>
+    <octubre>Октябрь</octubre>
+    <noviembre>Ноябрь</noviembre>
+    <diciembre>Декабрь</diciembre>
+    <lunes>Понедельник</lunes>
+    <martes>Вторник</martes>
+    <miercoles>Среда</miercoles>
+    <jueves>Четверг</jueves>
+    <viernes>Пятница</viernes>
+    <sabado>Суббота</sabado>
+    <domingo>Воскресенье</domingo>
+    <year>Год</year>
+    <mes>Месяц</mes>
+    <dia>День</dia>
+    <hora>Время</hora>
+    <minutos>Минуты</minutos>
+    <fecha>Дата</fecha>
+    <personalizado>Персонализированный</personalizado>
+    <hoy>Сегодня</hoy>
+    <ayer>Вчера</ayer>
+    <dosdias>Последние два дня</dosdias>
+    <sietedias>Последние семь дней</sietedias>
+    <quincedias>Последние пятнадцать дней</quincedias>
+    <treintadias>Последние тридцать дней</treintadias>
+    <mesactual>Текущий месяц</mesactual>
+    <mesanterior>Предыдущий месяц</mesanterior>
+    <a></a>
+    <acciones>Действия</acciones>
+    <activo>Активный</activo>
+    <ajustar_zona>Настроить зону</ajustar_zona>
+    <apunte>Примечания</apunte>
+    <auto>Автоматический</auto>
+    <backup>резервный</backup>
+    <baneado>запертый</baneado>
+    <banned>Пользователь заблокирован. Пожалуйста, свяжитесь с администратором</banned>
+    <billing>Биллинговая система</billing>
+    <billing_c_fecha>Дата</billing_c_fecha>
+    <billing_c_mccmnc>Дата MccMnc</billing_c_mccmnc>
+    <billing_p_fecha>Провайдер дата</billing_p_fecha>
+    <billing_p_mccmnc>Провайдер MccMnc</billing_p_mccmnc>
+    <billing_detalle>Подробности</billing_detalle>
+    <bindeado>Связанный</bindeado>
+    <blacklist>Черный список</blacklist>
+    <black_cliente>Customer Blacklist</black_cliente>
+    <black_pais>Country Blacklist</black_pais>
+    <blanco>[пусто]</blanco>
+    <bloqueado>Заблокирован (Вход)</bloqueado>
+    <cantidad>Количество</cantidad>
+    <calidad>Качество направления</calidad>
+    <cargando>Идет загрузка</cargando>
+    <caudal>Поток</caudal>
+    <cerrar>Закрыть</cerrar>
+    <chinese>Юникод Китайский (DC=8)</chinese>
+    <clearing>Очистка</clearing>
+    <clearing_fecha>Очистить дату</clearing_fecha>
+    <clearing_mccmnc>Очистить MccMnc</clearing_mccmnc>
+    <clearing_proveedor_f>Очистить Provider-Date</clearing_proveedor_f>
+    <clearing_proveedor_m>Очистить  Provider-MccMnc</clearing_proveedor_m>
+    <cliente>Клиент</cliente>
+    <clientes>Клиенты</clientes>
+    <clientesmccmnc>Клиенты-MccMnc</clientesmccmnc>
+    <codificacion>Кодирование</codificacion>
+    <columna>Колонка</columna>
+    <comentarios>Комментарии</comentarios>
+    <completo>Заполненный</completo>
+    <conectado>Соединённый</conectado>
+    <conexion>Соединение</conexion>
+    <conexiones>Соединения</conexiones>
+    <configurar>Kонфигурация</configurar>
+    <concepto>Понятие</concepto>
+    <consultar>Справка</consultar>
+    <contactar>Обратная связь</contactar>
+    <control>Проверка</control>
+    <conversion>Конверсия</conversion>
+    <conversion_0>Без конверсии</conversion_0>
+    <conversion_1>Число (normal)</conversion_1>
+    <conversion_2>Число (',' change '.')</conversion_2>
+    <conversion_3>Число (round int)</conversion_3>
+    <conversion_4>Страна  (String => ID)</conversion_4>
+    <copia>Копия</copia>
+    <copiardef>Копии по умолчанию</copiardef>
+    <copiardef>Копировать по умолчанию</copiardef>
+    <comercial>Торговый представитель</comercial>
+    <conversion>Конверсия</conversion>
+    <coste>Стоимость</coste>
+    <crear>Создать</crear>
+    <dashboard>Информационная панель</dashboard>
+    <de>от</de>
+    <dato>Данные</dato>
+    <datos_bancarios>Банковские данные</datos_bancarios>
+    <datos_usuario>Данные пользователя</datos_usuario>
+    <datos_inc>Сведения об ошибке</datos_inc>
+    <defaults>По умолчанию</defaults>
+    <defecto>По умолчанию</defecto>
+    <del>из</del>
+    <desde>От</desde>
+    <descargar>Выгрузить</descargar>
+    <descripcion>Описание</descripcion>
+    <destino>Направление</destino>
+    <detalle>Подробности</detalle>
+    <detalle_c>Подробности об соединении</detalle_c>
+    <divisa>Валюта</divisa>
+    <edicion>Версия</edicion>
+    <email>Email получателя </email>
+    <mail>Электронная почта</mail>
+    <en>в</en>
+    <entrar>Войти</entrar>
+    <entregados>Доставленные</entregados>
+    <enviados>Отправленные</enviados>
+    <enviar>Отправить</enviar>
+    <error_gsm>Ошибка: СМС превышает норму  (DC=0)</error_gsm>
+    <error_unicode>Ошибка:Unicode превышает норму  (DC=8)</error_unicode>
+    <errores>Ошибка</errores>
+    <estadisticas>Статистика</estadisticas>
+    <exitotest>Ваше тестовое сообщение отправлено</exitotest>
+    <exe>Запустить</exe>
+    <factura>Счет</factura>
+    <facturacion>Биллинг</facturacion>
+    <fallotest>Произошла ошибка при обработке вашего сообщения</fallotest>
+    <fechaentrega>Дата получения</fechaentrega>
+    <fechanotifica>Дата получения уведомления</fechanotifica>
+    <fechasalida>Дата отправки</fechasalida>
+    <forzar>Форсировать</forzar>
+    <general>общий</general>
+    <grafica>Графики</grafica>
+    <gsm>GSM (DC=1)</gsm>
+    <gsm160>SMS 160 chars (DC=0)</gsm160>
+    <gsm2sms>SMS Double (DC=0)</gsm2sms>
+    <gsmdef>DEFAULT (DC=0)</gsmdef>
+    <hasta>До:</hasta>
+    <herramientas>Панель инструментов</herramientas>
+    <historico>Тарифы</historico>
+    <idioma>Выберите язык</idioma>
+    <idmaster>Основной ID провайдер</idmaster>
+    <importfile>Импортировать архив</importfile>
+    <incidencias>Инциденты</incidencias>
+    <ingreso>Вклад</ingreso>
+    <iso>ISO (DC=3)</iso>
+    <iva>НДС(%)</iva>
+    <limite>Лимит</limite>
+    <limpiar>Очистить</limpiar>
+    <llamadas>Звонки</llamadas>
+    <loginchange>Имя пользователя успешно изменено. Войдите еще раз</loginchange>
+    <loginlast>Укажите последний логин</loginlast>
+    <logout>Завершить текущий сеанс</logout>
+    <longnum>Long Numeric 1234567890123 (DC=0)</longnum>
+    <longthai>Unicode Long Thai 4 SMS (DC=8)</longthai>
+    <manual>Инструкция</manual>
+    <mapa>Карта</mapa>
+    <master>Ведущий</master>
+    <max_c>Максимальное количество соединений</max_c>
+    <mccmnc>MccMnc</mccmnc>
+    <media>Сре́днее значе́ние</media>
+    <mensaje>Сообщение</mensaje>
+    <mensajestotal>Всего сообщений</mensajestotal>
+    <micuenta>Учетная запись</micuenta>
+    <modo>Режим</modo>
+    <movil>Мобильный телефон</movil>
+    <msgid>Msgid</msgid>
+    <msgidop>Msgid Провайдер</msgidop>
+    <no_valido>Неправильное имя пользователя или пароль</no_valido>
+    <nombre_usuario>Имя пользователя</nombre_usuario>
+    <nombrecliente>Наименование клиента</nombrecliente>
+    <notificados>Уведомлены</notificados>
+    <numeric>Numeric 123456 (DC=0)</numeric>
+    <numero>Число</numero>
+    <numeromovil>Номер мобильного телефона</numeromovil>
+    <operadora>Оператор</operadora>
+    <rutas_r>Restricted Operators</rutas_r>
+    <opcional>Альтернативный</opcional>
+    <pais>Страна</pais>
+    <paisdestino>Страна назначения</paisdestino>
+    <paises>Страны</paises>
+    <permisos>Полномочия </permisos>
+    <por>по</por>
+    <por_favor>Пожалуйста, введите имя пользователя и пароль</por_favor>
+    <porcentaje>Процент</porcentaje>
+    <precio>Цена</precio>
+    <pricing>Цены</pricing>
+    <problema>Произошла ошибка. Пожалуйста, попробуйте еще раз через несколько минут</problema>
+    <proforma>Смета</proforma>
+    <promedio_map>Среднестатистическое качество маршрутирования по странам</promedio_map>
+    <protocolo>Протокол</protocolo>
+    <proveedor>Провайдер</proveedor>
+    <proveedores>Провайдеры</proveedores>
+    <puerto>Порт</puerto>
+    <razon_social>Наименование фирмы</razon_social>
+    <reenviados>Переадресованный </reenviados>
+    <recargar>Перезагрузить</recargar>
+    <remitente>Отправитель</remitente>
+    <remitentes>Отправители</remitentes>
+    <remitente_cliente>Customer Sender</remitente_cliente>
+    <remitente_pais>Country Sender</remitente_pais>
+    <reportes>Отчет</reportes>
+    <resumencliente>Всего по клиентам</resumencliente>
+    <resumenfechas>Отправка по датам</resumenfechas>
+    <resumenmccmnc>Всего по MccMnc</resumenmccmnc>
+    <resumenpaises>Всего по странам</resumenpaises>
+    <resumenrutas>Всего по провайдерам</resumenrutas>
+    <routing>Маршрутизация</routing>
+    <russian>Юникод Русский  (DC=8)</russian>
+    <ruta>Маршрут</ruta>
+    <rutas>Маршрут</rutas>
+    <ruta_new>Новый маршрут</ruta_new>
+    <ruta_alt>Alternative Route</ruta_alt>
+    <ruta_proveedor>Маршрут - провайдер</ruta_proveedor>
+    <ruta_real>Real route</ruta_real>
+    <ruta_fallo>Fail route</ruta_fallo>
+    <rutas_backup>Backup Routes</rutas_backup>
+    <salir>Выйти</salir>
+    <selecciona>Выберите период между датами для просмотра результатов</selecciona>
+    <seleccionar_c>Выберите поле</seleccionar_c>
+    <seleccionar_d>Выберите данные</seleccionar_d>
+    <seleccionar_f>Выберите файл</seleccionar_f>
+    <seleccionado>Выбрано</seleccionado>
+    <senderid>ID отправителя</senderid>
+    <servicio>Сервис</servicio>
+    <servidor>Сервер</servidor>
+    <servidores>Серверы</servidores>
+    <shortnum>Короткий номер 1234 (DC=0)</shortnum>
+    <subtotal>Итого</subtotal>
+    <status>Статус</status>
+    <tarifa>Тариф </tarifa>
+    <tecnico>Техник</tecnico>
+    <testing>Тестирование</testing>
+    <texto>Текст</texto>
+    <thai>Юникод Тайский  (DC=8)</thai>
+    <tipo>Тип</tipo>
+    <tipobulk>Тип балка</tipobulk>
+    <tipocobro>Виды оплаты</tipocobro>
+    <tipocon>Тип подключения</tipocon>
+    <tipoenvio>Тип отсылки</tipoenvio>
+    <tipomensaje>Вид сообщения</tipomensaje>
+    <tiporuta>Тип маршрутизации</tiporuta>
+    <todos>Все</todos>
+    <total>Всего</total>
+    <total_edicion>Всего версий</total_edicion>
+    <totales>Всего</totales>
+    <ultimahora>Последний час</ultimahora>
+    <ultimos>Последние</ultimos>
+    <ultimosmensajes>Последние сообщения</ultimosmensajes>
+    <usuario>Пользователь</usuario>
+    <usuarios>Пользователи</usuarios>
+    <utilidades>Утилиты</utilidades>
+    <ultima_mod>Последние модификации</ultima_mod>
+    <valor_fijo>Постоянное значение</valor_fijo>
+    <value>Значение</value>
+    <vacio>Запрос без результата</vacio>
+    <version>Версия</version>
+    <vietnamite>Юникод Вьетнам (DC=8)</vietnamite>
+    <wappush>WapPush (DC=4)</wappush>
+    <zonah>Часовая зона</zonah>
+    <zonah_min>Часовая зона</zonah_min>
+
+    <facturacion_b>
+        <filename>Биллинг</filename>
+        <error>Произошла+ошибка+при+запросе</error>
+        <no_hay>Нет+движений+в+указанном+периоде</no_hay>
+        <aviso>Укажите+дату+инвойса</aviso>
+        <criterios>Инвойс+в+процессе</criterios>
+    </facturacion_b>
+    <afiliados>
+        <filename>Партнеры</filename>
+        <afiliado>Партнер </afiliado>
+        <error>Произошла+ошибка+при+запросе</error>
+        <no_hay>Нет+движений+в+выбраном+периоде</no_hay>
+        <aviso>Укажите+дату+инвойса+партнера</aviso>
+        <criterios>Инвойс+в+процессе</criterios>
+    </afiliados>
+    <codigolibre>
+        <filename>Бесплатные+коды</filename>
+        <busqueda>Введите+искомый+код</busqueda>
+        <error>Произошла+ошибка+при+запросе</error>
+        <aviso>Введите+искомый+номер+телефона</aviso>
+        <estado>Статус</estado>
+        <precio>Цена</precio>
+    </codigolibre>
+    <buscador>
+        <filename>Поиск+СМС</filename>
+        <busqueda>Введите + номер+ телефона+ для поиска</busqueda>
+        <error>При+ выполнении+ запроса+ произошла+ ошибка</error>
+        <aviso> Для поиска+введите + номер+ телефона</aviso>
+        <no_hay>Нет+ сообщений +для+ указанного+ номера+ телефона</no_hay>
+    </buscador>
+    <essms>
+        <fecha_ini>Исходная+дата</fecha_ini>
+        <fecha_fin>Финальная+ дата</fecha_fin>
+        <fecha_entrada>Дата+ получения</fecha_entrada>
+        <fecha_salida>Дата+ отправления</fecha_salida>
+        <sel_edicion>Выберите исправления</sel_edicion>
+        <texto_entrante>Входящий+текст</texto_entrante>
+        <texto_saliente>Исходящий+текст</texto_saliente>
+        <mensajes>Сообщения</mensajes>
+        <error>При+ выполнении+ запроса+ произошла+ ошибка</error>
+        <no_hay>Нет+движений+в+выбраном+периоде</no_hay>
+        <aviso>Пожалуйста, выберите дату получения и отправки</aviso>
+    </essms>
+    <concursos>
+        <filename>Розыгрыш</filename>
+        <seleccione>Выберите сообщения:</seleccione>
+        <hora_ini>Время+начала</hora_ini>
+        <hora_fin>Время+завершения</hora_fin>
+        <serv_sms>Услуги+ СМС</serv_sms>
+        <serv_voz>IVR+услуги</serv_voz>
+        <opciones>Опции</opciones>
+        <gan_unicos>Исключительные+победители</gan_unicos>
+        <gan_aleat>Произвольные+победители</gan_aleat>
+        <mas_mensa>Другие+отправленные+сообщения</mas_mensa>
+        <cntxt>С+текстом:</cntxt>
+        <num_win>Количество+победителей</num_win>
+        <sortear>Розыгрыш</sortear>
+        <datetime>Дата/Время</datetime>
+    </concursos>
+    <billstatus>
+        <s0>Созданный</s0>
+        <s1>Проверенный</s1>
+        <s2>Отправленный</s2>
+        <s3>Оплачен</s3>
+        <s4>Возвращен </s4>
+        <s5>Согласованный</s5>
+        <s6>Предъявлена претензия</s6>
+    </billstatus>
+    <meses>
+        <m1>Январь</m1>
+        <m2>Февраль</m2>
+        <m3>Март</m3>
+        <m4>Апрель</m4>
+        <m5>Май</m5>
+        <m6>Июнь</m6>
+        <m7>Июль</m7>
+        <m8>Август</m8>
+        <m9>Сентябрь</m9>
+        <m10>Октябрь</m10>
+        <m11>Ноябрь</m11>
+        <m12>Декабрь</m12>
+    </meses>
+    <id_masterbulk>
+        <t1>NVIA</t1>
+        <t2>ATS</t2>
+        <t3>Quintatech</t3>
+        <t4>Mobiadvanced</t4>
+    </id_masterbulk>
+    <id_tipo>
+        <t0>Direct</t0>
+        <t1>Whole Sales</t1>
+        <t2>SIMs</t2>
+        <t3>SS7</t3>
+        <t4>WAB</t4>
+    </id_tipo>
+    <id_tipopago>
+        <t0>Sent</t0>
+        <t1>Delivered</t1>
+    </id_tipopago>
+    <id_tipocobro>
+        <t0>Prepaid</t0>
+        <t1>Postpaid</t1>
+    </id_tipocobro>
+    <listapaises>
+        <p0>Все</p0>
+        <p-1>Default</p-1>
+        <p1>США</p1>
+        <p7>Абхазия</p7>
+        <p15>Канада</p15>
+        <p18>Доминиканская Республика</p18>
+        <p20>Египет</p20>
+        <p27>Южная Африка</p27>
+        <p30>Греция</p30>
+        <p31>Голландия</p31>
+        <p32>Бельгия</p32>
+        <p33>Франция</p33>
+        <p34>Испания</p34>
+        <p36>Венгрия</p36>
+        <p39>Италия</p39>
+        <p40>Румыния</p40>
+        <p41>Швейцария</p41>
+        <p43>Австрия</p43>
+        <p44>Великобритания</p44>
+        <p45>Дания</p45>
+        <p46>Швеция</p46>
+        <p47>Норвегия</p47>
+        <p48>Польша</p48>
+        <p49>Германия</p49>
+        <p51>Перу</p51>
+        <p52>Мексика</p52>
+        <p53>Куба</p53>
+        <p54>Аргентина</p54>
+        <p55>Бразилия</p55>
+        <p56>Чили</p56>
+        <p57>Колумбия</p57>
+        <p58>Венесуэла</p58>
+        <p60>Малайзия</p60>
+        <p61>Австралия</p61>
+        <p62>Индонезия</p62>
+        <p63>Филиппины</p63>
+        <p64>Новая Зеландия</p64>
+        <p65>Сингапур</p65>
+        <p66>Таиланд</p66>
+        <p76>Казахстан</p76>
+        <p79>Россия</p79>
+        <p81>Япония</p81>
+        <p82>Южная Корея</p82>
+        <p84>Вьетнам</p84>
+        <p86>Китай</p86>
+        <p90>Турция</p90>
+        <p91>Индия</p91>
+        <p92>Пакистан</p92>
+        <p93>Афганистан</p93>
+        <p94>Шри-Ланка</p94>
+        <p95>Майами</p95>
+        <p98>Иран</p98>
+        <p211>Южный Судан</p211>
+        <p212>Марокко</p212>
+        <p213>Алжир</p213>
+        <p216>Тунис</p216>
+        <p218>Ливия</p218>
+        <p220>Гамбия</p220>
+        <p221>Сенегал</p221>
+        <p222>Мавритания</p222>
+        <p223>Мали</p223>
+        <p224>Гвинея</p224>
+        <p225>Кот-д'Ивуа́р</p225>
+        <p226>Буркина-Фасо</p226>
+        <p227>Нигер</p227>
+        <p228>Того</p228>
+        <p229>Бенин</p229>
+        <p230>Маурисио</p230>
+        <p231>Либерия</p231>
+        <p232>Сьерра-Леоне</p232>
+        <p233>Гана</p233>
+        <p234>Нигерия</p234>
+        <p235>Чад</p235>
+        <p236>Центральноафриканская Республика</p236>
+        <p237>Камерун</p237>
+        <p238>Кабо-Верде</p238>
+        <p239>Сан-Томе и Принсипи</p239>
+        <p240>Экваториальная Гвинея</p240>
+        <p241>Габон</p241>
+        <p242>Республика Конго</p242>
+        <p243>Демократическая Республика Конго</p243>
+        <p244>Ангола</p244>
+        <p245>Гвинея-Бисау</p245>
+        <p246>Британская территория в Индийском океане</p246>
+        <p248>Сейшельские Острова</p248>
+        <p249>Судан</p249>
+        <p250>Руанда</p250>
+        <p251>Эфиопия</p251>
+        <p252>Сомали</p252>
+        <p253>Джибути</p253>
+        <p254>Кения</p254>
+        <p255>Танзания</p255>
+        <p256>Уганда</p256>
+        <p257>Бурунди</p257>
+        <p258>Мозамбик</p258>
+        <p260>Замбия</p260>
+        <p261>Мадагаскар</p261>
+        <p262>Французские южные антарктические территории</p262>
+        <p263>Зимбабве</p263>
+        <p264>Намибия</p264>
+        <p265>Малави</p265>
+        <p266>Лесото</p266>
+        <p267>Ботсвана</p267>
+        <p268>Свазиленд</p268>
+        <p269>Коморские острова</p269>
+        <p291>Эритрея</p291>
+        <p297>Ару́ба </p297>
+        <p298>Фарерские острова</p298>
+        <p299>Гренландия</p299>
+        <p340>Виргинские острова</p340>
+        <p1345>Каймановы острова</p1345>
+        <p350>Гибралтар</p350>
+        <p351>Португалия</p351>
+        <p352>Люксембург</p352>
+        <p353>Ирландия</p353>
+        <p354>Исландия</p354>
+        <p355>Албания</p355>
+        <p356>Мальта</p356>
+        <p357>Кипр</p357>
+        <p358>Финляндия</p358>
+        <p359>Болгария</p359>
+        <p370>Литва</p370>
+        <p371>Латвия</p371>
+        <p372>Эстония</p372>
+        <p373>Молдова</p373>
+        <p374>Армения</p374>
+        <p375>Белоруссия</p375>
+        <p376>Андорра</p376>
+        <p377>Монако</p377>
+        <p378>Сан-Марино</p378>
+        <p379>Ватикан</p379>
+        <p380>Украина</p380>
+        <p381>Сербия</p381>
+        <p382>Черногория</p382>
+        <p383>Косово</p383>
+        <p385>Хорватия</p385>
+        <p386>Словения</p386>
+        <p387>Босния и Герцеговина</p387>
+        <p389>Македо́ния </p389>
+        <p392>Северный Кипр</p392>
+        <p420>Чешская Республика</p420>
+        <p421>Словакия</p421>
+        <p423>Лихтенштейн</p423>
+        <p428>Северная Ирландия</p428>
+        <p441>Остров Мэн</p441>
+        <p447>Гернси</p447>
+        <p1473>Гренада</p1473>
+        <p501>Белиз</p501>
+        <p502>Гватемала</p502>
+        <p503>Сальвадор</p503>
+        <p504>Гондурас</p504>
+        <p505>Никарагуа</p505>
+        <p506>Коста-Рика</p506>
+        <p507>Панама</p507>
+        <p509>Гаити</p509>
+        <p522>Мексика</p522>
+        <p590>Гваделупа</p590>
+        <p591>Боливия</p591>
+        <p592>Гвиана</p592>
+        <p593>Эквадор</p593>
+        <p594>Гвиана (департамент Франции)</p594>
+        <p595>Парагвай</p595>
+        <p596>Мартиника</p596>
+        <p597>Суринам</p597>
+        <p598>Уругвай</p598>
+        <p599>Нидерландские Антильские острова</p599>
+        <p649>Острова Теркс и Кайкос</p649>
+        <p1664>Монсеррат</p1664>
+        <p670>Восточный Тимор</p670>
+        <p1671>Гуам</p1671>
+        <p673>Бруней</p673>
+        <p674>Нау́ру</p674>
+        <p675>Папуа — Новая Гвинея</p675>
+        <p676>Тонга</p676>
+        <p677>Соломоновы Острова</p677>
+        <p678>Вануату</p678>
+        <p679>Фиджи</p679>
+        <p680>Палау</p680>
+        <p682>Острова Кука</p682>
+        <p684>Американское Самоа</p684>
+        <p685>Самоа</p685>
+        <p686>Кирибати</p686>
+        <p687>Новая Каледония</p687>
+        <p688>Тувалу</p688>
+        <p689>Французская Полинезия</p689>
+        <p691>Микронезия</p691>
+        <p692>Маршалловы Острова</p692>
+        <p721>Сан-Мартин</p721>
+        <p1758>Маршалловы Острова</p1758>
+        <p1767>Доминика</p1767>
+        <p1784>Сент-Винсент и Гренадины</p1784>
+        <p1787>Пуэрто-Рико</p1787>
+        <p1809>Доминиканская Республика</p1809>
+        <p850>Северная Корея</p850>
+        <p852>Гонконг</p852>
+        <p853>Мокао</p853>
+        <p855>Камбоджа</p855>
+        <p856>Лаос</p856>
+        <p868>Тринидад и Тобаго</p868>
+        <p869>Сент-Китс и Невис</p869>
+        <p880>Бангладеша</p880>
+        <p886>Тайвань</p886>
+        <p960>Мальдивы</p960>
+        <p961>Ливан</p961>
+        <p962>Иордания</p962>
+        <p963>Сирия</p963>
+        <p964>Ирак</p964>
+        <p965>Кувейт</p965>
+        <p966>Саудовская Аравия</p966>
+        <p967>Йемен</p967>
+        <p968>Оман</p968>
+        <p970>Палестина</p970>
+        <p971>Объединенные Арабские Эмираты</p971>
+        <p972>Израиль</p972>
+        <p973>Бахрейн</p973>
+        <p974>Катар</p974>
+        <p975>Бутан</p975>
+        <p976>Монголия</p976>
+        <p977>Непал</p977>
+        <p992>Таджикистан</p992>
+        <p993>Туркменистан</p993>
+        <p994>Азербайджан</p994>
+        <p995>Грузия</p995>
+        <p996>Киргизия</p996>
+        <p998>Узбекистан</p998>
+        <p1242>Багамы</p1242>
+        <p1246>Барба́дос </p1246>
+        <p1264>Ангилья</p1264>
+        <p1268>Антигуа и Барбуда</p1268>
+        <p1284>Виргинские острова</p1284>
+        <p1441>Бермудские острова</p1441>
+        <p1534>Дже́рси</p1534>
+        <p1876>Ямайка</p1876>
+    </listapaises>
+</txt>

@@ -1,0 +1,604 @@
+<?xml version="1.0" standalone="yes"?>
+<txt>
+    <firstday>0</firstday>
+    <enero>Ιανουάριος</enero>
+    <febrero>φεβρουάριος</febrero>
+    <marzo>Μάρτιος</marzo>
+    <abril>Απρίλιος</abril>
+    <mayo>Μάιος</mayo>
+    <junio>Ιούνιος</junio>
+    <julio>Ιούλιος </julio>
+    <agosto>Αύγουστος</agosto>
+    <septiembre>Σεπτέμβριος</septiembre>
+    <octubre>Οκτώβριος</octubre>
+    <noviembre>Νοέμβριος</noviembre>
+    <diciembre>Δεκέμβριος</diciembre>
+    <lunes>Δευτέρα</lunes>
+    <martes>Τρίτη</martes>
+    <miercoles>Τετάρτη</miercoles>
+    <jueves>Πέμπτη</jueves>
+    <viernes>Παρασκευή</viernes>
+    <sabado>Σάββατο</sabado>
+    <domingo>Κυριακή</domingo>
+    <year>Έτος</year>
+    <mes>Μήνας</mes>
+    <dia>Ημέρα</dia>
+    <hora>Ώρα</hora>
+    <minutos>Λεπτά</minutos>
+    <fecha>Ημερομηνία</fecha>
+    <personalizado>Προσαρμογή</personalizado>
+    <hoy>Σήμερα</hoy>
+    <ayer>Εχθές</ayer>
+    <dosdias>Τελευταίες δύο ημέρες</dosdias>
+    <sietedias>Τελευταίες επτά ημέρες</sietedias>
+    <quincedias>Τελευταίες δεκαπέντε ημέρες</quincedias>
+    <treintadias>Τελευταίες τριάντα ημέρες</treintadias>
+    <mesactual>Τρέχων μήνας</mesactual>
+    <mesanterior>Προηγούμενος μήνας</mesanterior>
+    <a>ένα</a>
+    <acciones>Ενέργειες</acciones>
+    <activo>Ενεργός</activo>
+    <ajustar_zona>Ορίστε τη ζώνη ώρας</ajustar_zona>
+    <apunte>Καταχωρήσεις</apunte>
+    <auto>Αυτόματο</auto>
+    <backup>εφεδρικός</backup>
+    <baneado>Αποκλεισμένος</baneado>
+    <banned>Ο χρήστης αποκλείστηκε. Παρακαλώ επικοινωνήστε με τους διαχειριστές.</banned>
+    <billing>Τιμολόγηση</billing>
+    <billing_c_fecha>Πελάτης - Ημερομηνία</billing_c_fecha>
+    <billing_c_mccmnc>Πελάτης - MccMnc</billing_c_mccmnc>
+    <billing_p_fecha>Πάροχος - Ημερομηνία</billing_p_fecha>
+    <billing_p_mccmnc>Πάροχος - MccMnc</billing_p_mccmnc>
+    <billing_detalle>Λεπτομέρειες</billing_detalle>
+    <bindeado>Συνδεδεμένο</bindeado>
+    <blacklist>Προγραφή</blacklist>
+    <black_cliente>Customer Blacklist</black_cliente>
+    <black_pais>Country Blacklist</black_pais>
+    <blanco>[κενό]</blanco>
+    <bloqueado>Ο χρήστης είναι μπλοκαρισμένος (Pass)</bloqueado>
+    <cantidad>Ποσότητα</cantidad>
+    <calidad>Ποιοτικά Routes</calidad>
+    <cargando>φόρτωση</cargando>
+    <caudal>Ροή</caudal>
+    <cerrar>Κοντά</cerrar>
+    <chinese>Unicode κινεζικά (DC = 8)</chinese>
+    <clearing>Καθαρισμός</clearing>
+    <clearing_fecha>Ημερομηνία εκκαθάρισης</clearing_fecha>
+    <clearing_mccmnc>Εκκαθάριση του MccMnc</clearing_mccmnc>
+    <clearing_proveedor_f>Εκκαθάριση Παρόχου-Ημερομηνία</clearing_proveedor_f>
+    <clearing_proveedor_m>Πάροχος Εκκαθάρισης-MccMnc</clearing_proveedor_m>
+    <cliente>Πελάτης</cliente>
+    <clientes>Πελάτες</clientes>
+    <clientesmccmnc>Πελάτης - MccMnc</clientesmccmnc>
+    <codificacion>Κωδικοποίηση</codificacion>
+    <columna>Στήλη</columna>
+    <comentarios>Σχολιασμός</comentarios>
+    <completo>Ολικό</completo>
+    <conectado>Συνδεδεμένο</conectado>
+    <conexion>Σύνδεση</conexion>
+    <conexiones>Συνδέσεις</conexiones>
+    <configurar>Διαμόρφωση</configurar>
+    <concepto>Concept</concepto>
+    <consultar>Αναζήτηση</consultar>
+    <contactar>Επικοινωνία</contactar>
+    <control>Ελεγχος</control>
+    <conversion>Μετατροπή</conversion>
+    <conversion_0>Χωρίς μετατροπή</conversion_0>
+    <conversion_1>Στον αριθμό (νορμάλ)</conversion_1>
+    <conversion_2>Στον αριθμό (',' αλλαγή '.)</conversion_2>
+    <conversion_3>Στον αριθμό (round int)</conversion_3>
+    <conversion_4>Χώρα (String => ID)</conversion_4>
+    <copia>CC:</copia>
+    <copiardef>Αντιγραφή προεπιλογής</copiardef>
+    <copiardef>Αντιγραφή προεπιλογής</copiardef>
+    <comercial>Αντιπρόσωπος Πωλήσεων</comercial>
+    <conversion>Αντιπρόσωπος Πωλήσεων</conversion>
+    <coste>Κόστος</coste>
+    <crear>Νέο</crear>
+    <dashboard>Πίνακας ελέγχου</dashboard>
+    <de>Από</de>
+    <dato>Δεδομένα</dato>
+    <datos_bancarios>Τράπεζα δεδομένων</datos_bancarios>
+    <datos_usuario>Δεδομένα Χρήστη</datos_usuario>
+    <datos_inc>Δεδομένα συμβάντων</datos_inc>
+    <defaults>Προεπιλογές</defaults>
+    <defecto>Προεπιλογή</defecto>
+    <del>από</del>
+    <desde>Από:</desde>
+    <descargar>Κατέβασμα</descargar>
+    <descripcion>Περιγραφή</descripcion>
+    <destino>Χώρα</destino>
+    <detalle>Λεπτομέρειες</detalle>
+    <detalle_c>Λεπτομέρειες σύνδεσης</detalle_c>
+    <divisa>Νόμισμα</divisa>
+    <edicion>Εκδοση</edicion>
+    <email>Email</email>
+    <mail>Email</mail>
+    <en>at</en>
+    <entrar>Σύνδεση</entrar>
+    <entregados>Παραδόθηκαν</entregados>
+    <enviados>Υποβλήθηκαν</enviados>
+    <enviar>Απεσταλμένα</enviar>
+    <error_gsm>Σφάλμα: Το SMS είναι πολύ μεγάλο (DC = 0)</error_gsm>
+    <error_unicode>Σφάλμα: Το Unicode είναι πολύ μεγάλο (DC = 8)</error_unicode>
+    <errores>Λανθασμένο</errores>
+    <estadisticas>Στατιστική</estadisticas>
+    <exitotest>Το δοκιμαστικό σας μήνυμά έχει επεξεργαστεί σωστά</exitotest>
+    <exe>Εκτέλεση</exe>
+    <factura>Λογαριασμός</factura>
+    <facturacion>Τιμολόγηση</facturacion>
+    <fallotest>Παρουσιάστηκε σφάλμα κατά την επεξεργασία του δοκιμαστικού μηνύματος</fallotest>
+    <fechaentrega>Ημερομηνία παράδοσης</fechaentrega>
+    <fechanotifica>Ημερομηνία κοινοποίησης</fechanotifica>
+    <fechasalida>Ημερομηνία αποστολής</fechasalida>
+    <forzar>Δύναμη</forzar>
+    <general>Γενικά</general>
+    <grafica>Γραφική παράσταση</grafica>
+    <gsm>GSM (DC = 1)</gsm>
+    <gsm160>SMS 160 χαρακτήρες (DC = 0)</gsm160>
+    <gsm2sms>Διπλό SMS (DC = 0)</gsm2sms>
+    <gsmdef>DEFAULT (DC = 0)</gsmdef>
+    <hasta>Προς:</hasta>
+    <herramientas>Εργαλεία</herramientas>
+    <historico>Ιστορικό τιμών</historico>
+    <idioma>Επιλέξτε την γλώσσα σας</idioma>
+    <idmaster>ID Master Provider</idmaster>
+    <importfile>Εισαγωγή αρχείου</importfile>
+    <incidencias>Θέματα</incidencias>
+    <ingreso>Κατάθεση</ingreso>
+    <iso>ISO (DC = 3)</iso>
+    <iva>ΦΟΡΟΣ(%)</iva>
+    <limite>Οριο</limite>
+    <limpiar>Εκκαθάριση</limpiar>
+    <llamadas>Κλήσεις</llamadas>
+    <loginchange>Ο χρήστης τροποποιήθηκε σωστά. Πρέπει να επιστρέψετε στη σελίδα σύνδεσης</loginchange>
+    <loginlast>Τελευταία σύνδεση:</loginlast>
+    <logout>Αποσυνδέση</logout>
+    <longnum>Long Numeric 1234567890123 (DC=0)</longnum>
+    <longthai>Unicode Long Thai 4 SMS (DC = 8)</longthai>
+    <manual>Εγχειρίδιο χρήσης</manual>
+    <mapa>Χάρτης</mapa>
+    <master>Master</master>
+    <max_c>Μέγιστες συνδέσεις</max_c>
+    <mccmnc>MccMnc</mccmnc>
+    <media>Μέσος όρος</media>
+    <mensaje>Μηνύματα</mensaje>
+    <mensajestotal>Συνολικά Μηνύματα</mensajestotal>
+    <micuenta>Ο λογαριασμός μου</micuenta>
+    <modo>Mode</modo>
+    <movil>Κινητό</movil>
+    <msgid>Msgid</msgid>
+    <msgidop>Msgid Provider</msgidop>
+    <no_valido>Το όνομα χρήστη ή ο κωδικός πρόσβασης είναι εσφαλμένα</no_valido>
+    <nombre_usuario>Όνομα χρήστη</nombre_usuario>
+    <nombrecliente>Όνομα Πελάτη</nombrecliente>
+    <notificados>Κοινοποιημένο</notificados>
+    <numeric>Numeric 123456 (DC=0)</numeric>
+    <numero>Αριθμός</numero>
+    <numeromovil>Αριθμός κινητού τηλεφώνου</numeromovil>
+    <operadora>Operator</operadora>
+    <rutas_r>Restricted Operators</rutas_r>
+    <opcional>Προαιρετικό</opcional>
+    <pais>Χώρα</pais>
+    <paisdestino>Χώρα Προορισμού</paisdestino>
+    <paises>Χώρες</paises>
+    <permisos>Δικαιώματα</permisos>
+    <por>ανά</por>
+    <por_favor>Εισαγάγετε το όνομα χρήστη και τον κωδικό πρόσβασης</por_favor>
+    <porcentaje>Αναλογία</porcentaje>
+    <precio>Τιμή</precio>
+    <pricing>Τιμολόγηση</pricing>
+    <problema>Αυτή τη στιγμή υπάρχει κάποιο τεχνικό πρόβλημα, παρακαλώ δοκιμάστε ξανά αργότερα</problema>
+    <proforma>Proforma</proforma>
+    <promedio_map>Μέση ποιότητα routes ανά χώρα (δευτερόλεπτα)</promedio_map>
+    <protocolo>Πρωτόκολλο</protocolo>
+    <proveedor>Πάροχος</proveedor>
+    <proveedores>Παροχείς</proveedores>
+    <puerto>Port</puerto>
+    <razon_social>Επωνυμία Επιχείρησης</razon_social>
+    <reenviados>Προωθήθηκε</reenviados>
+    <recargar>Επαναφόρτωση</recargar>
+    <remitente>Αποστολέας</remitente>
+    <remitentes>Αποστολείς</remitentes>
+    <remitente_cliente>Customer Sender</remitente_cliente>
+    <remitente_pais>Country Sender</remitente_pais>
+    <reportes>Αναφορές</reportes>
+    <resumencliente>Περίληψη Πελατών</resumencliente>
+    <resumenfechas>Αποστολές ανά Ημερομηνία</resumenfechas>
+    <resumenmccmnc>MccMnc Περίληψη</resumenmccmnc>
+    <resumenpaises>Σύνοψη Χωρών</resumenpaises>
+    <resumenrutas>Περίληψη Παροχέων</resumenrutas>
+    <routing>Δρομολόγηση</routing>
+    <russian>Unicode Ρώσικα (DC = 8)</russian>
+    <ruta>Route</ruta>
+    <rutas>Routes</rutas>
+    <ruta_new>Νέο Route</ruta_new>
+    <ruta_alt>Alternative Route</ruta_alt>
+    <ruta_proveedor>Route - Πάροχος</ruta_proveedor>
+    <ruta_real>Πραγματικό Route</ruta_real>
+    <ruta_fallo>Fail route</ruta_fallo>
+    <rutas_backup>Backup Routes</rutas_backup>
+    <salir>Αποσυνδέση</salir>
+    <selecciona>Επιλέξτε ένα εύρος ημερομηνιών για την εμφάνιση αποτελεσμάτων:</selecciona>
+    <seleccionar_c>Επιλέξτε πεδία</seleccionar_c>
+    <seleccionar_d>Επιλέξτε δεδομένα</seleccionar_d>
+    <seleccionar_f>Επιλέξτε αρχείο</seleccionar_f>
+    <seleccionado>Επιλεγμένο</seleccionado>
+    <senderid>SenderID</senderid>
+    <servicio>Υπηρεσία</servicio>
+    <servidor>Server</servidor>
+    <servidores>Servers</servidores>
+    <shortnum>Short Numeric 1234 (DC=0)</shortnum>
+    <subtotal>Μερικό σύνολο</subtotal>
+    <status>Κατάσταση</status>
+    <tarifa>Ταρίφα</tarifa>
+    <tecnico>Τεχνικός</tecnico>
+    <testing>Δοκιμές</testing>
+    <texto>Κείμενο</texto>
+    <thai>Unicode Ταϊλάνδης (DC = 8)</thai>
+    <tipo>Τύπος</tipo>
+    <tipobulk>Τύπος Bulk</tipobulk>
+    <tipocobro>Τύπος χρέωσης</tipocobro>
+    <tipocon>Τύπος σύνδεσης</tipocon>
+    <tipoenvio>Λειτουργία αποστολής</tipoenvio>
+    <tipomensaje>Τύπος μηνύματος</tipomensaje>
+    <tiporuta>Τύπος route</tiporuta>
+    <todos>Ολα</todos>
+    <total>Σύνολο</total>
+    <total_edicion>Συνολικές Εκδόσεις</total_edicion>
+    <totales>Σύνολα</totales>
+    <ultimahora>Τελευταία Ωρα</ultimahora>
+    <ultimos>τελευταίο</ultimos>
+    <ultimosmensajes>Τελευταία μηνύματα</ultimosmensajes>
+    <usuario>Χρήστης</usuario>
+    <usuarios>Χρήστες</usuarios>
+    <utilidades>Utils</utilidades>
+    <ultima_mod>Τελευταία Αλλαγή</ultima_mod>
+    <valor_fijo>Σταθερή τιμή</valor_fijo>
+    <value>Τιμή</value>
+    <vacio>Η αναζήτηση δεν επέστρεψε κανένα αποτέλεσμα</vacio>
+    <version>Εκδοχή</version>
+    <vietnamite>Unicode Vietnamite (DC=8)</vietnamite>
+    <wappush>WapPush (DC=4)</wappush>
+    <zonah>Ζώνη ώρας</zonah>
+    <zonah_min>Ώρα Ζ.</zonah_min>
+
+    <facturacion_b>
+        <filename>Τιμολόγηση</filename>
+        <error>Ένα+σφάλμα+έχει+εμφανιστεί+κατά+την+αναζήτησή+σας</error>
+        <no_hay>Δεν+υπάρχουν+κινήσεις+για+την+επιλεγμένη+περίοδο</no_hay>
+        <aviso>Επιλέξτε+την+ημερομηνία+της+χρέωσης+παρακαλώ</aviso>
+        <criterios>Χρέωση+Πελάτη+στις+υπηρεσίες</criterios>
+    </facturacion_b>
+    <afiliados>
+        <filename>Afiliates</filename>
+        <afiliado>Afiliate</afiliado>
+        <error>Ένα+σφάλμα+έχει+εμφανιστεί+κατά+την+αναζήτησή+σας</error>
+        <no_hay>Δεν+υπάρχουν+κινήσεις+για+την+επιλεγμένη+περίοδο</no_hay>
+        <aviso>Επιλέξτε+την+ημερομηνία+της+χρέωσης+παρακαλώ</aviso>
+        <criterios>Χρέωση+Affiliate+στις+υπηρεσίες</criterios>
+    </afiliados>
+    <codigolibre>
+        <filename>Δωρεάν+κωδικοί</filename>
+        <busqueda>Εισαγάγετε+τον+κωδικό+για+την+αναζήτηση</busqueda>
+        <error>Ένα+σφάλμα+έχει+εμφανιστεί+κατά+την+αναζήτησή+σας</error>
+        <aviso>Εισαγάγετε+το+τηλέφωνο+που+αναζητάτε</aviso>
+        <estado>Κατάσταση</estado>
+        <precio>Τιμή</precio>
+    </codigolibre>
+    <buscador>
+        <filename>Αναζήτηση+SMS</filename>
+        <busqueda>Εισαγάγετε+το+τηλέφωνο+που+αναζητάτε</busqueda>
+        <error>Ένα+σφάλμα+έχει+εμφανιστεί+κατά+την+αναζήτησή+σας</error>
+        <aviso>Εισαγάγετε+το+τηλέφωνο+επιθυμείτε+να+βρείτε</aviso>
+        <no_hay>Δεν+υπάρχουν+μηνύματα+για+την+επιλεγμένη+περίοδο</no_hay>
+    </buscador>
+    <essms>
+        <fecha_ini>Αρχική+ημερομηνία</fecha_ini>
+        <fecha_fin>Τελική+ημερομηνία</fecha_fin>
+        <fecha_entrada>Ημερομηνία+εισερχόμενου </fecha_entrada>
+        <fecha_salida>Ημερομηνία+εξερχόμενου </fecha_salida>
+        <sel_edicion>Επιλέξτε+έκδοση</sel_edicion>
+        <texto_entrante>Εισερχόμενο+κείμενο</texto_entrante>
+        <texto_saliente>Εξερχόμενο+κείμενο</texto_saliente>
+        <mensajes>Μηνύματα</mensajes>
+        <error>Ένα+σφάλμα+έχει+εμφανιστεί+κατά+την+αναζήτησή+σας</error>
+        <no_hay>Δεν+υπάρχουν+κινήσεις+για+την+επιλεγμένη+περίοδο</no_hay>
+        <aviso>Επιλέξτε+εισερχόμενες+και+εξερχόμενες+ημερομηνίες</aviso>
+    </essms>
+    <concursos>
+        <filename>Κληρώσεις</filename>
+        <seleccione>Επιλέξτε+τα+μηνύματα:</seleccione>
+        <hora_ini>Αρχική+ώρα</hora_ini>
+        <hora_fin>Τελική+ώρα</hora_fin>
+        <serv_sms>Υπηρεσίες+SMS</serv_sms>
+        <serv_voz>Υπηρεσίες+VOZ</serv_voz>
+        <opciones>Επιλογές</opciones>
+        <gan_unicos>Μοναδικοί+νικητές+(Msisdn)</gan_unicos>
+        <gan_aleat>Τυχαίοι+νικητές</gan_aleat>
+        <mas_mensa>Περισσότερα+απεσταλμένα+μηνύματα</mas_mensa>
+        <cntxt>Με+κείμενο:</cntxt>
+        <num_win>Αριθμός+νικητών:</num_win>
+        <sortear>Κλήρωση</sortear>
+        <datetime>Ημερομηνία/Ώρα</datetime>
+    </concursos>
+    <billstatus>
+        <s0>Δημιουργήθηκε</s0>
+        <s1>Αναθεωρημένο</s1>
+        <s2>Απεσταλμένα</s2>
+        <s3>Πληρωμένα</s3>
+        <s4>Επέστρεψαν</s4>
+        <s5>Συμβιβασμός</s5>
+        <s6>Διεκδικούμενα</s6>
+    </billstatus>
+    <meses>
+        <m1>Ιανουάριος</m1>
+        <m2>φεβρουάριος</m2>
+        <m3>Μάρτιος</m3>
+        <m4>Απρίλιος</m4>
+        <m5>Μάιος</m5>
+        <m6>Ιούνιος</m6>
+        <m7>Ιούλιος </m7>
+        <m8>Αύγουστος</m8>
+        <m9>Σεπτέμβριος</m9>
+        <m10>Οκτώβριος</m10>
+        <m11>Νοέμβριος</m11>
+        <m12>Δεκέμβριος</m12>
+    </meses>
+    <id_masterbulk>
+        <t1>NVIA</t1>
+        <t2>ATS</t2>
+        <t3>Quintatech</t3>
+        <t4>Mobiadvanced</t4>
+    </id_masterbulk>
+    <id_tipo>
+        <t0>Direct</t0>
+        <t1>Whole Sales</t1>
+        <t2>SIMs</t2>
+        <t3>SS7</t3>
+        <t4>WAB</t4>
+    </id_tipo>
+    <id_tipopago>
+        <t0>Απεσταλμένα</t0>
+        <t1>Παραδόθηκαν</t1>
+    </id_tipopago>
+    <id_tipocobro>
+        <t0>Prepaid</t0>
+        <t1>Postpaid</t1>
+    </id_tipocobro>
+    <listapaises>
+        <p0>International</p0>
+        <p-1>Default</p-1>
+        <p1>ΗΠΑ</p1>
+        <p7>Ρωσία</p7>
+        <p15>Καναδάς</p15>
+        <p18>Δομινικανή Δημοκρατία</p18>
+        <p20>Αίγυπτος</p20>
+        <p27>Νότια Αφρική</p27>
+        <p30>Ελλάδα</p30>
+        <p31>Ολλανδία</p31>
+        <p32>Βέλγιο</p32>
+        <p33>Γαλλία</p33>
+        <p34>Ισπανία</p34>
+        <p36>Ουγγαρία</p36>
+        <p39>Ιταλία</p39>
+        <p40>Ρουμανία</p40>
+        <p41>Ελβετία</p41>
+        <p43>Αυστρία</p43>
+        <p44>Ηνωμένο Βασίλειο</p44>
+        <p45>Δανία</p45>
+        <p46>Σουηδία</p46>
+        <p47>Νορβηγία</p47>
+        <p48>Πολωνία</p48>
+        <p49>Γερμανία</p49>
+        <p51>Περού</p51>
+        <p52>Μεξικό</p52>
+        <p53>Κούβα</p53>
+        <p54>Αργεντίνη</p54>
+        <p55>Βραζιλία</p55>
+        <p56>χιλή</p56>
+        <p57>Κολομβία</p57>
+        <p58>Βενεζουέλα</p58>
+        <p60>Μαλαισία</p60>
+        <p61>Αυστραλία</p61>
+        <p62>Ινδονησία</p62>
+        <p63>Φιλιππίνες</p63>
+        <p64>Νέα Ζηλανδία</p64>
+        <p65>Σιγκαπούρη</p65>
+        <p66>Ταϊλάνδη</p66>
+        <p76>Καζακστάν</p76>
+        <p79>Ρωσία</p79>
+        <p81>Ιαπωνία</p81>
+        <p82>Νότια Κορέα</p82>
+        <p84>Βιετνάμ</p84>
+        <p86>Κίνα</p86>
+        <p90>Τουρκία</p90>
+        <p91>Ινδία</p91>
+        <p92>Πακιστάν</p92>
+        <p93>Αφγανιστάν</p93>
+        <p94>Σρι Λάνκα</p94>
+        <p95>Μυανμάρ</p95>
+        <p98>Ιράν</p98>
+        <p211>Νότιο Σουδάν</p211>
+        <p212>Μαρόκο</p212>
+        <p213>Αλγερία</p213>
+        <p216>Τυνησία</p216>
+        <p218>Λιβύη</p218>
+        <p220>Γκάμπια</p220>
+        <p221>Σενεγάλη</p221>
+        <p222>Μαυριτανία</p222>
+        <p223>Μάλι</p223>
+        <p224>Γκινέα</p224>
+        <p225>Ακτή Ελεφαντοστού</p225>
+        <p226>Μπουρκίνα Φάσο</p226>
+        <p227>Νίγηρας</p227>
+        <p228>Τόγκο</p228>
+        <p229>Μπενίν</p229>
+        <p230>Μαυρίκιος</p230>
+        <p231>Λιβερία</p231>
+        <p232>Σιέρρα Λεόνε</p232>
+        <p233>Γκάνα</p233>
+        <p234>Νιγηρία</p234>
+        <p235>Τσαντ</p235>
+        <p236>Δημοκρατία Κεντρικής Αφρικής</p236>
+        <p237>Καμερούν</p237>
+        <p238>Πράσινο Ακρωτήριο</p238>
+        <p239>Σάο Τομέ και Πρίνσιπε</p239>
+        <p240>Ισημερινή Γουινέα</p240>
+        <p241>Γκαμπόν</p241>
+        <p242>Δημοκρατία του Κονγκό</p242>
+        <p243>Λαϊκή Δημοκρατία του Κονγκό</p243>
+        <p244>Αγκόλα</p244>
+        <p245>Γουινέα-Μπισάου</p245>
+        <p246>Βρετανικά εδάφη Ινδικού Ωκεανού</p246>
+        <p248>Σεϋχέλλες</p248>
+        <p249>Σουδάν</p249>
+        <p250>Ρουάντα</p250>
+        <p251>Αιθιοπία</p251>
+        <p252>Σομαλία</p252>
+        <p253>Τζιμπουτί</p253>
+        <p254>Κένυα</p254>
+        <p255>Τανζανία</p255>
+        <p256>Ουγκάντα</p256>
+        <p257>Μπουρούντι</p257>
+        <p258>Μοζαμβίκη</p258>
+        <p260>Ζάμπια</p260>
+        <p261>Μαδαγασκάρη</p261>
+        <p262>Γαλλικά νότια και ανταρκτικά εδάφη</p262>
+        <p263>Ζιμπάμπουε</p263>
+        <p264>Ναμίμπια</p264>
+        <p265>Μαλάουι</p265>
+        <p266>Λεσότο</p266>
+        <p267>Μποτσουάνα</p267>
+        <p268>Σουαζιλάνδη</p268>
+        <p269>Κομόρες</p269>
+        <p291>Ερυθραία</p291>
+        <p297>Αρούμπα</p297>
+        <p298>Νήσοι Φερόες</p298>
+        <p299>Γροιλανδία</p299>
+        <p340>Αμερικάνικες Παρθένες Νήσοι</p340>
+        <p1345>Νήσοι Καίυμαν</p1345>
+        <p350>Γιβραλτάρ</p350>
+        <p351>Πορτογαλία</p351>
+        <p352>Λουξεμβούργο</p352>
+        <p353>Ιρλανδία</p353>
+        <p354>Ισλανδία</p354>
+        <p355>Αλβανία</p355>
+        <p356>Μάλτα</p356>
+        <p357>Κύπρος</p357>
+        <p358>Φινλανδία</p358>
+        <p359>Βουλγαρία</p359>
+        <p370>Λιθουανία</p370>
+        <p371>Λατβία</p371>
+        <p372>Εσθονία</p372>
+        <p373>Μολδαβία</p373>
+        <p374>Αρμενία</p374>
+        <p375>Λευκορωσία</p375>
+        <p376>Ανδόρα</p376>
+        <p377>Μονακό</p377>
+        <p378>Σαν Μαρίνο</p378>
+        <p379>Η πόλη του Βατικανού</p379>
+        <p380>Ουκρανία</p380>
+        <p381>Σερβία</p381>
+        <p382>Μαυροβούνιο</p382>
+        <p383>Κοσσυφοπέδιο</p383>
+        <p385>Κροατία</p385>
+        <p386>Σλοβενία</p386>
+        <p387>Βοσνία-Ερζεγοβίνη</p387>
+        <p389>Σκόπια</p389>
+        <p392>Βόρεια Κύπρος</p392>
+        <p420>Τσεχική Δημοκρατία</p420>
+        <p421>Σλοβακία</p421>
+        <p423>Λιχτενστάιν</p423>
+        <p428>Βόρεια Ιρλανδία</p428>
+        <p441>Νήσος του Μαν</p441>
+        <p447>Guernsey</p447>
+        <p1473>Γρενάδα</p1473>
+        <p501>Μπελίζε</p501>
+        <p502>Γουατεμάλα</p502>
+        <p503>Ελ Σαλβαδόρ</p503>
+        <p504>Ονδούρα</p504>
+        <p505>Νικαράγουα</p505>
+        <p506>Κόστα Ρίκα</p506>
+        <p507>Παναμάς</p507>
+        <p509>Αΐτη</p509>
+        <p522>Μεξικό 2</p522>
+        <p590>Γουαδελούπη</p590>
+        <p591>Βολιβία</p591>
+        <p592>Γουιάνα</p592>
+        <p593>Εκουαδόρ</p593>
+        <p594>Γαλλική Γουιάνα</p594>
+        <p595>Παραγουάη</p595>
+        <p596>Μαρτινίκα</p596>
+        <p597>Σουρινάμ</p597>
+        <p598>Ουρουγουάη</p598>
+        <p599>Ολλανδικές Αντίλλες</p599>
+        <p649>Νήσοι Τερκς και Κάικος</p649>
+        <p1664>Μοντσερράτ</p1664>
+        <p670>Ανατολικό Τιμόρ</p670>
+        <p1671>Γκουάμ</p1671>
+        <p673>Μπρουνέι</p673>
+        <p674>Ναουρού</p674>
+        <p675>Παπούα Νέα Γουινέα</p675>
+        <p676>Τόνγκα</p676>
+        <p677>Νησιά του Σολομώντα</p677>
+        <p678>Βανουάτου</p678>
+        <p679>Φίτζι</p679>
+        <p680>Παλάου</p680>
+        <p682>Νήσοι Κουκ</p682>
+        <p684>Αμερικάνικη Σαμόα</p684>
+        <p685>Σαμόα</p685>
+        <p686>Κιριμπάτι</p686>
+        <p687>Νέα Καληδονία</p687>
+        <p688>Τουβαλού</p688>
+        <p689>Γαλλική Πολυνησία</p689>
+        <p691>Μικρονησία</p691>
+        <p692>Νήσοι Μάρσαλ</p692>
+        <p721>Άγιος Μαρτίνος</p721>
+        <p1758>Αγία Λουκία</p1758>
+        <p1767>Δομινίκα</p1767>
+        <p1784>Άγιος Βικέντιος και Γρεναδίνες</p1784>
+        <p1787>Πουέρτο Ρίκο</p1787>
+        <p1809>Δομινικανή Δημοκρατία</p1809>
+        <p850>Βόρεια Κορέα</p850>
+        <p852>Χονγκ Κονγκ</p852>
+        <p853>Μακάο</p853>
+        <p855>Καμπότζη</p855>
+        <p856>Λάος</p856>
+        <p868>Τρινιντάντ και Τομπάγκο</p868>
+        <p869>Άγιος Χριστόφορος και Νέβις</p869>
+        <p880>Μπανγκλαντές</p880>
+        <p886>Ταϊβάν</p886>
+        <p960>Μαλδίβες</p960>
+        <p961>Λίβανος</p961>
+        <p962>Ιορδανία</p962>
+        <p963>Συρία</p963>
+        <p964>Ιράκ</p964>
+        <p965>Κουβέιτ</p965>
+        <p966>Σαουδική Αραβία</p966>
+        <p967>Γέμενη</p967>
+        <p968>Ομάν</p968>
+        <p970>Παλαιστίνη</p970>
+        <p971>Ηνωμένα Αραβικά Εμιράτα</p971>
+        <p972>Ισραήλ</p972>
+        <p973>Μπαχρέιν</p973>
+        <p974>Κατάρ</p974>
+        <p975>Μπουτάν</p975>
+        <p976>Μογγολία</p976>
+        <p977>Νεπάλ</p977>
+        <p992>Τατζικιστάν</p992>
+        <p993>Τουρκμενιστάν</p993>
+        <p994>Αζερμπαϊτζάν</p994>
+        <p995>Γεωργία</p995>
+        <p996>Κιργιζιστάν</p996>
+        <p998>Ουζμπεκιστάν</p998>
+        <p1242>Μπαχάμες</p1242>
+        <p1246>Μπαρμπάντος</p1246>
+        <p1264>Ανγκουίλα</p1264>
+        <p1268>Αντίγκουα και Μπαρμπούντα</p1268>
+        <p1284>Βρετανικά Παρθένα νησιά</p1284>
+        <p1441>Βερμούδα</p1441>
+        <p1534>Τζέρσεϊ</p1534>
+        <p1876>Τζαμάικα</p1876>
+    </listapaises>
+</txt>
